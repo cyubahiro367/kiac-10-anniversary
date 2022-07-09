@@ -655,45 +655,8 @@
       </section>
       <!--//sponsors-section-->
 
-      <footer class="footer py-5 theme-bg-primary">
-        <div class="container text-center">
-          <ul class="social-list list-inline mb-4">
-            <li class="list-inline-item me-3">
-              <a href="#"><i class="fas fa-envelope"></i></a>
-            </li>
-            <li class="list-inline-item me-3">
-              <a href="#"><i class="fab fa-twitter fa-fw"></i></a>
-            </li>
-            <li class="list-inline-item me-3">
-              <a href="#"><i class="fab fa-instagram fa-fw"></i></a>
-            </li>
-            <li class="list-inline-item me-0">
-              <a href="#"><i class="fab fa-youtube fa-fw"></i></a>
-            </li>
-          </ul>
-          <!--//social-list-->
-
-          <ul class="footer-links list-inline mx-auto mb-4">
-            <li class="list-inline-item"><a href="#">Code of Conduct</a></li>
-            <li class="list-inline-item">|</li>
-            <li class="list-inline-item"><a href="#">Terms</a></li>
-            <li class="list-inline-item">|</li>
-            <li class="list-inline-item me-0"><a href="#">Privacy</a></li>
-          </ul>
-          <!--//footer-link-->
-
-          <!--/* This template is free as long as you keep the footer attribution link. If you'd like to use the template without the attribution link, you can buy the commercial license via our website: themes.3rdwavemedia.com Thank you for your support. :) */-->
-          <small class="copyright"
-            >Designed with
-            <i class="fas fa-heart" style="color: #ec645e"></i> by
-            <a href="http://themes.3rdwavemedia.com" target="_blank"
-              >Xiaoying Riley</a
-            >
-            for developers</small
-          >
-        </div>
-        <!--//container-->
-      </footer>
+      <Footer />
+      <!--//Footer-->
 
       <!-- Modal Speaker -->
       <div
@@ -794,10 +757,12 @@
 <script>
 import Speakers from './components/Speakers.vue'
 import Schedule from './components/Schedule.vue'
+import Footer from './components/Footer.vue'
 export default {
   components:{
     Speakers,
-    Schedule
+    Schedule,
+    Footer
   }
 }
 </script>
