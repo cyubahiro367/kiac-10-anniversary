@@ -19,7 +19,7 @@
                   class="btn btn-secondary"
                   href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
                   target="_blank"
-                  >Tickets</a
+                  >Register</a
                 >
               </div>
 
@@ -94,10 +94,10 @@
         <div class="hero-block-mask"></div>
         <div class="container">
           <div class="hero-text-block">
-            <h1 class="hero-heading mb-2">DevConf 2028</h1>
+            <h1 class="hero-heading mb-2">KIAC 10 Anniversary 2022</h1>
             <div class="hero-meta mb-3">
               <i class="far fa-calendar-alt me-2"></i>12 - 15 Oct
-              <i class="fas fa-map-marker-alt mx-2"></i>New York, USA
+              <i class="fas fa-map-marker-alt mx-2"></i>Kigali City, Rwanda
             </div>
             <div class="hero-intro mb-4">
               The #1 Bootstrap Template for <br />Tech Conferences and Events.
@@ -107,7 +107,7 @@
                 class="btn btn-primary btn-lg"
                 href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
                 target="_blank"
-                >Get Tickets</a
+                >Register</a
               >
             </div>
           </div>
@@ -278,381 +278,8 @@
       </section>
       <!--//about-section-->
 
-      <section id="speakers-section" class="speakers-section section">
-        <div class="container">
-          <h3 class="section-heading text-center mb-3">Speakers</h3>
-          <div class="section-intro text-center single-col-max mx-auto mb-5">
-            List your featured speakers here. You can provide more info about
-            each speaker in the relevant modal windows. Lorem ipsum dolor sit
-            amet, consectetur adipiscing elit.
-          </div>
-          <div class="row">
-            <div class="col-6 col-lg-3 mb-4">
-              <div class="card rounded-0">
-                <a
-                  href="#modal-speaker-1"
-                  data-bs-toggle="modal"
-                  data-bs-target="#modal-speaker-1"
-                  ><img
-                    src="assets/images/speakers/speaker-1.jpg"
-                    class="card-img-top rounded-0"
-                    alt=""
-                /></a>
-                <div class="card-body">
-                  <h5 class="card-title mb-2">James Doe</h5>
-                  <div class="card-text mb-3">
-                    <div class="meta">Senior Software Developer</div>
-                    <div class="meta">Angular Core Team</div>
-                  </div>
-                  <!--//card-text-->
-                  <a
-                    href="#modal-speaker-1"
-                    data-bs-toggle="modal"
-                    data-bs-target="#modal-speaker-1"
-                    >Read more &rarr;</a
-                  >
-                </div>
-                <!--//card-->
-                <div class="card-footer text-muted">
-                  <ul class="social-list list-inline mb-0">
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-twitter fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-github fa-fw"></i></a>
-                    </li>
-                  </ul>
-                  <!--//social-list-->
-                </div>
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-            <div class="col-6 col-lg-3 mb-4">
-              <div class="card rounded-0">
-                <a
-                  href="#modal-speaker-1"
-                  data-bs-toggle="modal"
-                  data-bs-target="#modal-speaker-1"
-                  ><img
-                    src="assets/images/speakers/speaker-2.jpg"
-                    class="card-img-top rounded-0"
-                    alt=""
-                /></a>
-                <div class="card-body">
-                  <h5 class="card-title mb-2">Sarah Doe</h5>
-                  <div class="card-text mb-3">
-                    <div class="meta">Developer Advocate</div>
-                    <div class="meta">Google</div>
-                  </div>
-                  <!--//card-text-->
-                  <a
-                    href="#modal-speaker-1"
-                    data-bs-toggle="modal"
-                    data-bs-target="#modal-speaker-1"
-                    >Read more &rarr;</a
-                  >
-                </div>
-                <!--//card-->
-                <div class="card-footer text-muted">
-                  <ul class="social-list list-inline mb-0">
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-twitter fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-github fa-fw"></i></a>
-                    </li>
-                  </ul>
-                  <!--//social-list-->
-                </div>
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-            <div class="col-6 col-lg-3 mb-4">
-              <div class="card rounded-0">
-                <a
-                  href="#modal-speaker-1"
-                  data-bs-toggle="modal"
-                  data-bs-target="#modal-speaker-1"
-                  ><img
-                    src="assets/images/speakers/speaker-3.jpg"
-                    class="card-img-top rounded-0"
-                    alt=""
-                /></a>
-                <div class="card-body">
-                  <h5 class="card-title mb-2">Tim Doe</h5>
-                  <div class="card-text mb-3">
-                    <div class="meta">Software Developer</div>
-                    <div class="meta">React Core Team</div>
-                  </div>
-                  <!--//card-text-->
-                  <a
-                    href="#modal-speaker-1"
-                    data-bs-toggle="modal"
-                    data-bs-target="#modal-speaker-1"
-                    >Read more &rarr;</a
-                  >
-                </div>
-                <!--//card-->
-                <div class="card-footer text-muted">
-                  <ul class="social-list list-inline mb-0">
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-twitter fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-github fa-fw"></i></a>
-                    </li>
-                  </ul>
-                  <!--//social-list-->
-                </div>
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-            <div class="col-6 col-lg-3 mb-4">
-              <div class="card rounded-0">
-                <a
-                  href="#modal-speaker-1"
-                  data-bs-toggle="modal"
-                  data-bs-target="#modal-speaker-1"
-                  ><img
-                    src="assets/images/speakers/speaker-4.jpg"
-                    class="card-img-top rounded-0"
-                    alt=""
-                /></a>
-                <div class="card-body">
-                  <h5 class="card-title mb-2">Josh Doe</h5>
-                  <div class="card-text mb-3">
-                    <div class="meta">Founder &amp; CTO</div>
-                    <div class="meta">Startup Week</div>
-                  </div>
-                  <!--//card-text-->
-                  <a
-                    href="#modal-speaker-1"
-                    data-bs-toggle="modal"
-                    data-bs-target="#modal-speaker-1"
-                    >Read more &rarr;</a
-                  >
-                </div>
-                <!--//card-->
-                <div class="card-footer text-muted">
-                  <ul class="social-list list-inline mb-0">
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-twitter fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-github fa-fw"></i></a>
-                    </li>
-                  </ul>
-                  <!--//social-list-->
-                </div>
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-            <div class="col-6 col-lg-3 mb-4">
-              <div class="card rounded-0">
-                <a
-                  href="#modal-speaker-1"
-                  data-bs-toggle="modal"
-                  data-bs-target="#modal-speaker-1"
-                  ><img
-                    src="assets/images/speakers/speaker-5.jpg"
-                    class="card-img-top rounded-0"
-                    alt=""
-                /></a>
-                <div class="card-body">
-                  <h5 class="card-title mb-2">Ling Doe</h5>
-                  <div class="card-text mb-3">
-                    <div class="meta">Software Architect</div>
-                    <div class="meta">GitHub</div>
-                  </div>
-                  <!--//card-text-->
-                  <a
-                    href="#modal-speaker-1"
-                    data-bs-toggle="modal"
-                    data-bs-target="#modal-speaker-1"
-                    >Read more &rarr;</a
-                  >
-                </div>
-                <!--//card-->
-                <div class="card-footer text-muted">
-                  <ul class="social-list list-inline mb-0">
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-twitter fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-github fa-fw"></i></a>
-                    </li>
-                  </ul>
-                  <!--//social-list-->
-                </div>
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-            <div class="col-6 col-lg-3 mb-4">
-              <div class="card rounded-0">
-                <a
-                  href="#modal-speaker-1"
-                  data-bs-toggle="modal"
-                  data-bs-target="#modal-speaker-1"
-                  ><img
-                    src="assets/images/speakers/speaker-6.jpg"
-                    class="card-img-top rounded-0"
-                    alt=""
-                /></a>
-                <div class="card-body">
-                  <h5 class="card-title mb-2">Andy Doe</h5>
-                  <div class="card-text mb-3">
-                    <div class="meta">Senior Software Engineer</div>
-                    <div class="meta">Twitter</div>
-                  </div>
-                  <!--//card-text-->
-                  <a
-                    href="#modal-speaker-1"
-                    data-bs-toggle="modal"
-                    data-bs-target="#modal-speaker-1"
-                    >Read more &rarr;</a
-                  >
-                </div>
-                <!--//card-->
-                <div class="card-footer text-muted">
-                  <ul class="social-list list-inline mb-0">
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-twitter fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-github fa-fw"></i></a>
-                    </li>
-                  </ul>
-                  <!--//social-list-->
-                </div>
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-            <div class="col-6 col-lg-3 mb-4">
-              <div class="card rounded-0">
-                <a
-                  href="#modal-speaker-1"
-                  data-bs-toggle="modal"
-                  data-bs-target="#modal-speaker-1"
-                  ><img
-                    src="assets/images/speakers/speaker-7.jpg"
-                    class="card-img-top rounded-0"
-                    alt=""
-                /></a>
-                <div class="card-body">
-                  <h5 class="card-title mb-2">Alice Doe</h5>
-                  <div class="card-text mb-3">
-                    <div class="meta">Senior Software Developer</div>
-                    <div class="meta">Facebook</div>
-                  </div>
-                  <!--//card-text-->
-                  <a
-                    href="#modal-speaker-1"
-                    data-bs-toggle="modal"
-                    data-bs-target="#modal-speaker-1"
-                    >Read more &rarr;</a
-                  >
-                </div>
-                <!--//card-->
-                <div class="card-footer text-muted">
-                  <ul class="social-list list-inline mb-0">
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-twitter fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-github fa-fw"></i></a>
-                    </li>
-                  </ul>
-                  <!--//social-list-->
-                </div>
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-            <div class="col-6 col-lg-3 mb-4">
-              <div class="card rounded-0">
-                <a
-                  href="#modal-speaker-1"
-                  data-bs-toggle="modal"
-                  data-bs-target="#modal-speaker-1"
-                  ><img
-                    src="assets/images/speakers/speaker-8.jpg"
-                    class="card-img-top rounded-0"
-                    alt=""
-                /></a>
-                <div class="card-body">
-                  <h5 class="card-title mb-2">Thomas Doe</h5>
-                  <div class="card-text mb-3">
-                    <div class="meta">Lead Developer</div>
-                    <div class="meta">Microsoft</div>
-                  </div>
-                  <!--//card-text-->
-                  <a
-                    href="#modal-speaker-1"
-                    data-bs-toggle="modal"
-                    data-bs-target="#modal-speaker-1"
-                    >Read more &rarr;</a
-                  >
-                </div>
-                <!--//card-->
-                <div class="card-footer text-muted">
-                  <ul class="social-list list-inline mb-0">
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-twitter fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="#"><i class="fab fa-github fa-fw"></i></a>
-                    </li>
-                  </ul>
-                  <!--//social-list-->
-                </div>
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-          </div>
-          <!--//row-->
-          <div class="speakers-cta text-center py-3">
-            <a
-              class="btn btn-primary btn-lg"
-              href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
-              target="_blank"
-              >Get Tickets</a
-            >
-          </div>
-        </div>
-        <!--//container-->
-      </section>
-      <!--//speakers-section-->
+      <Speakers />
+      
 
       <div class="container">
         <hr />
@@ -1164,24 +791,6 @@
             <!--//tab-3-content-->
           </div>
           <!--//schedule-tab-content-->
-          <div class="schedule-cta text-center mx-auto">
-            <a
-              href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
-              class="
-                btn btn-primary btn-lg
-                me-md-2
-                d-block d-md-inline-block
-                mb-3 mb-md-0
-              "
-              target="_blank"
-              >Download Schedule</a
-            ><a
-              href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
-              class="btn btn-secondary btn-lg d-block d-md-inline-block"
-              target="_blank"
-              >Buy Tickets</a
-            >
-          </div>
         </div>
         <!--//container-->
       </section>
@@ -1231,9 +840,6 @@
                   <!--//info-->
                 </div>
                 <!--//card-body-->
-                <div class="card-footer text-center">
-                  <a href="#" class="btn btn-primary disabled">SOLD OUT</a>
-                </div>
               </div>
               <!--//card-->
             </div>
@@ -1257,9 +863,6 @@
                   <!--//info-->
                 </div>
                 <!--//card-body-->
-                <div class="card-footer text-center">
-                  <a href="#" class="btn btn-primary">Buy Now</a>
-                </div>
               </div>
               <!--//card-->
             </div>
@@ -1283,9 +886,6 @@
                   <!--//info-->
                 </div>
                 <!--//card-body-->
-                <div class="card-footer text-center">
-                  <a href="#" class="btn btn-primary">Buy Now</a>
-                </div>
               </div>
               <!--//card-->
             </div>
@@ -1698,6 +1298,15 @@
     <router-view />
   </div>
 </template>
+
+<script>
+import Speakers from './components/Speakers.vue'
+export default {
+  components:{
+    Speakers
+  }
+}
+</script>
 
 <style>
 #app {
