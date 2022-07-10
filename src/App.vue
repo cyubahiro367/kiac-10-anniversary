@@ -9,8 +9,8 @@
                 <a class="scrollto" href="#hero-block"
                   ><img
                     class="logo-icon"
-                    src="assets/images/logo-white.svg"
-                    alt="logo"
+                    src="assets/images/logos/KIAC-1-400x350.png"
+                    alt="kiac-logo"
                 /></a>
               </div>
 

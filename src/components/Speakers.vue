@@ -17,15 +17,6 @@
             :location = speaker.location
              />
           </div>
-          <!--//row-->
-          <div class="speakers-cta text-center py-3">
-            <a
-              class="btn btn-primary btn-lg"
-              href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
-              target="_blank"
-              >Get Tickets</a
-            >
-          </div>
         </div>
         <!--//container-->
       </section>
