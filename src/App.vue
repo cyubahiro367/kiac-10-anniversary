@@ -6,7 +6,7 @@
           <div class="container-fluid">
             <nav class="main-nav navbar navbar-expand-lg">
               <div class="site-logo">
-                <a class="scrollto" href="#hero-block"
+                <a class="scrollto" href="#"
                   ><img
                     class="logo-icon"
                     src="assets/images/logos/KIAC-1-400x350.png"
@@ -17,8 +17,9 @@
               <div class="navbar-btn order-lg-2">
                 <a
                   class="btn btn-secondary" style="background-color: #FF8C00"
-                  href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
-                  target="_blank"
+                  href="#modal-speaker-2"
+                  data-bs-toggle="modal"
+                  data-bs-target="#modal-speaker-2"
                   >Register</a
                 >
               </div>
@@ -94,19 +95,20 @@
         <div class="hero-block-mask"></div>
         <div class="container">
           <div class="hero-text-block">
-            <h1 class="hero-heading mb-2">KIAC 10 Anniversary 2022</h1>
+            <h1 class="hero-heading mb-2" style="color: #FF8C00">KIAC 10 Anniversary 2022</h1>
             <div class="hero-meta mb-3">
               <i class="far fa-calendar-alt me-2"></i>12 - 15 Oct
               <i class="fas fa-map-marker-alt mx-2"></i>Kigali City, Rwanda
             </div>
             <div class="hero-intro mb-4">
-              The #1 Bootstrap Template for <br />Tech Conferences and Events.
+              2022 marks the 10th Anniversary of the Kigali International Arbitration Center (KIAC)
             </div>
             <div class="hero-cta">
               <a
-                class="btn btn-primary btn-lg"
-                href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
-                target="_blank"
+                class="btn btn-primary btn-lg" style="background-color: #FF8C00"
+                href="#modal-speaker-2"
+                data-bs-toggle="modal"
+                data-bs-target="#modal-speaker-2"
                 >Register</a
               >
             </div>
@@ -158,62 +160,8 @@
       </div>
       <!--//stats-block-->
 
-      <section id="about-section" class="about-section section theme-bg-light">
-        <div class="container">
-          <h3 class="section-heading text-center mb-3">About 10 Years Anniversary Of KIAC</h3>
-          <div class="section-intro single-col-max mx-auto mb-4">
-            <p>
-              2022 marks the 10th Anniversary of the Kigali International Arbitration Center (KIAC) This event is an opportunity to celebrate KIAC's Arbitration cases 
-              out of which 40% are international cases with parties from Burundi, China, Ethiopia, Egypt, France, India, Italy, Kenya,
-              Korea, Nigeria, Pakistan, South Africa, SOuth Korea, Singapore, Rwanda, Sapin, Sqitzerland, Tanzania, Turkey, Uganda, USA, Zambia
-            </p>
-            <p>
-              The Anniversarywill be celebrated by a conference where the international Arbitration community will gather in kigali to discuss the hot topics shaping the future 
-              of international Arbitration in one of the major African Arbitral institutions.
-              Funthermore, the event will be an opportunity to share the role of courts in support of Arbitration in Rwanda where none of KIAC Awards has never been set aside.
-            </p>
-          </div>
-          <div class="benefits-list text-center mb-3">
-            <h4 class="text-center mb-4">Topics include:</h4>
-            <ul class="list-unstyled text-start d-inline-block">
-              <li>
-                <i class="fas fa-check-circle me-2"></i>Disclosure in international Arbitration: Current trends
-              </li>
-              <li>
-                <i class="fas fa-check-circle me-2"></i>Joinder and Multiparty Arbitration: Comparative perspectives
-              </li>
-              <li>
-                <i class="fas fa-check-circle me-2"></i>The Revised 2020 IBA Rules of Evidence in international Arbitration and its commentary
-              </li>
-              <li>
-                <i class="fas fa-check-circle me-2"></i>The virtual hearing Protocols: What Practitioners need to know
-              </li>
-              <li><i class="fas fa-check-circle me-2"></i>Analysis of what need to be amended in the Rwanda Arbitration act 2018</li>
-              <li>
-                <i class="fas fa-check-circle me-2"></i>The Dispute Resolution options under Africa Continental Free Trade Agreement (AFCTA)
-              </li>
-            </ul>
-          </div>
-          <!--//benefits-list-->
-          <div class="event-countdown text-center mb-3">
-            <h4 class="countdown-intro mb-2 text-center mb-3">
-              Event Starts In:
-            </h4>
-            <div id="countdown-box" class="countdown-box"></div>
-          </div>
-          <!--//event-countdown-->
-          <div class="about-cta text-center mb-5">
-            <a
-              class="btn btn-secondary btn-lg mb-5"
-              style="background-color: #00008B"
-              href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
-              target="_blank"
-              >Register Today</a
-            >
-          </div>
-        </div>
-        <!--//container-->
-      </section>
+      <About />
+
       <!--//about-section-->
 
       <Speakers />
@@ -237,12 +185,45 @@
 
       <Footer />
       <!--//Footer-->
+
+      <div
+        class="modal modal-speaker modal-speaker-2"
+        id="modal-speaker-2"
+        tabindex="-1"
+        role="dialog"
+        aria-labelledby="speaker-1-ModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-offset="50" data-wow-delay="0.9s">
+    					<form action="#" method="post">
+    						<label>NAME</label>
+    						<input name="fullname" type="text" class="form-control" id="fullname">
+   						  	
+                            <label>EMAIL</label>
+    						<input name="email" type="email" class="form-control" id="email">
+   						  	
+                            <label>MESSAGE</label>
+    						<textarea name="message" rows="4" class="form-control" id="message"></textarea>
+    						
+                            <input type="submit" class="form-control">
+    					</form>
+    				</div>
+            <!--//modal-body-->
+          </div>
+          <!--//modal-content-->
+        </div>
+        <!--//modal-dialog-->
+      </div>
+      <!--//modal-->
     </div>
     <router-view />
   </div>
 </template>
 
 <script>
+import About from './components/About.vue'
 import Speakers from './components/Speakers.vue'
 import Schedule from './components/Schedule.vue'
 import Venue from './components/Venue.vue'
@@ -251,6 +232,7 @@ import Ticket from './components/Ticket.vue'
 import Footer from './components/Footer.vue'
 export default {
   components:{
+    About,
     Speakers,
     Schedule,
     Venue,
@@ -262,24 +244,7 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
-nav {
-  padding: 30px;
-}
-
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-nav a.router-link-exact-active {
-  color: #42b983;
+.nav-link:hover {
+  color: #FF8C00;
 }
 </style>
