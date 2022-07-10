@@ -53,6 +53,7 @@
         <!--//container-->
       </section>
 
+      <!-- Modal Speaker -->
       <div
         class="modal modal-speaker modal-speaker-1"
         id="modal-speaker-1"
@@ -142,5 +143,6 @@
         </div>
         <!--//modal-dialog-->
       </div>
+      <!--//modal-->
     </div>
 </template>

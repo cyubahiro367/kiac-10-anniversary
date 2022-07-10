@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-      <header id="header" class="header fixed-top">
+      <header id="header" class="header fixed-top" style="background-color: #00008B">
         <div class="branding">
           <div class="container-fluid">
             <nav class="main-nav navbar navbar-expand-lg">
@@ -16,7 +16,7 @@
 
               <div class="navbar-btn order-lg-2">
                 <a
-                  class="btn btn-secondary"
+                  class="btn btn-secondary" style="background-color: #FF8C00"
                   href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
                   target="_blank"
                   >Register</a
@@ -117,7 +117,7 @@
       </div>
       <!--//hero-block-->
 
-      <div class="stats-block theme-bg-primary text-white py-4 text-center">
+      <div class="stats-block theme-bg-primary text-white py-4 text-center" style="background-color: #00008B">
         <div class="container">
           <div class="row">
             <div class="col-6 col-md-3">
@@ -160,52 +160,37 @@
 
       <section id="about-section" class="about-section section theme-bg-light">
         <div class="container">
-          <h3 class="section-heading text-center mb-3">About DevConf</h3>
+          <h3 class="section-heading text-center mb-3">About 10 Years Anniversary Of KIAC</h3>
           <div class="section-intro single-col-max mx-auto mb-4">
-            Briefly introduce your conference or event here. You should convince
-            people why they should attend with a list of benefits.
-            <strong
-              >Are you a conference organizer? Want to source developer t-shirts
-              as part of your conference package?</strong
-            >
-            Check out our programming tees at
-            <a href="https://made4dev.com/" target="_blank">made4dev.com</a> -
-            developers love them! Want to get a bulk discount or just want to
-            use one of the t-shirt designs? Please email
-            <a href="mailto:hello@made4dev.com">hello@made4dev.com</a> and we
-            can discuss.
+            <p>
+              2022 marks the 10th Anniversary of the Kigali International Arbitration Center (KIAC) This event is an opportunity to celebrate KIAC's Arbitration cases 
+              out of which 40% are international cases with parties from Burundi, China, Ethiopia, Egypt, France, India, Italy, Kenya,
+              Korea, Nigeria, Pakistan, South Africa, SOuth Korea, Singapore, Rwanda, Sapin, Sqitzerland, Tanzania, Turkey, Uganda, USA, Zambia
+            </p>
+            <p>
+              The Anniversarywill be celebrated by a conference where the international Arbitration community will gather in kigali to discuss the hot topics shaping the future 
+              of international Arbitration in one of the major African Arbitral institutions.
+              Funthermore, the event will be an opportunity to share the role of courts in support of Arbitration in Rwanda where none of KIAC Awards has never been set aside.
+            </p>
           </div>
           <div class="benefits-list text-center mb-3">
-            <h4 class="text-center mb-4">Why Join Us</h4>
+            <h4 class="text-center mb-4">Topics include:</h4>
             <ul class="list-unstyled text-start d-inline-block">
               <li>
-                <i class="fas fa-check-circle me-2"></i>Unique chance to lorem
-                ipsum dolor
+                <i class="fas fa-check-circle me-2"></i>Disclosure in international Arbitration: Current trends
               </li>
               <li>
-                <i class="fas fa-check-circle me-2"></i>Learn from the best in
-                the industry
+                <i class="fas fa-check-circle me-2"></i>Joinder and Multiparty Arbitration: Comparative perspectives
               </li>
               <li>
-                <i class="fas fa-check-circle me-2"></i>Discover the best tools
-                and practices
+                <i class="fas fa-check-circle me-2"></i>The Revised 2020 IBA Rules of Evidence in international Arbitration and its commentary
               </li>
               <li>
-                <i class="fas fa-check-circle me-2"></i>Meet developers from all
-                over the world
+                <i class="fas fa-check-circle me-2"></i>The virtual hearing Protocols: What Practitioners need to know
               </li>
-              <li><i class="fas fa-check-circle me-2"></i>Grow your network</li>
+              <li><i class="fas fa-check-circle me-2"></i>Analysis of what need to be amended in the Rwanda Arbitration act 2018</li>
               <li>
-                <i class="fas fa-check-circle me-2"></i>Practical workshops to
-                lorem ipsum dolor
-              </li>
-              <li>
-                <i class="fas fa-check-circle me-2"></i>After-party lorem ipsum
-                dolor
-              </li>
-              <li>
-                <i class="fas fa-check-circle me-2"></i>Free
-                <a href="https://made4dev.com">developer t-shirts</a> and swag
+                <i class="fas fa-check-circle me-2"></i>The Dispute Resolution options under Africa Continental Free Trade Agreement (AFCTA)
               </li>
             </ul>
           </div>
@@ -220,61 +205,14 @@
           <div class="about-cta text-center mb-5">
             <a
               class="btn btn-secondary btn-lg mb-5"
+              style="background-color: #00008B"
               href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
               target="_blank"
-              >Get Your Ticket Today</a
+              >Register Today</a
             >
           </div>
         </div>
         <!--//container-->
-
-        <div class="media-block theme-bg-primary py-5">
-          <div class="container">
-            <h4 class="text-white text-center mb-3">Previously</h4>
-            <div
-              class="
-                section-intro
-                text-center
-                single-col-max
-                mx-auto
-                text-white
-                mb-5
-              "
-            >
-              Conference videos and images from previous years is a great way to
-              show people what to expect at the conference and entice them to
-              join. You can host more media content on YouTube, Flickr or
-              Instagram and link out to them in this section.
-            </div>
-            <div class="row gx-md-5">
-              <div class="col-12 col-md-6 mb-3">
-                <div class="ratio ratio-16x9">
-                  <iframe
-                    src="https://www.youtube.com/embed/stjniziaxy4"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen
-                  ></iframe>
-                </div>
-                <!--//embed-responsive -->
-              </div>
-              <!--//col-->
-              <div class="col-12 col-md-6 mb-md-5">
-                <div class="ratio ratio-16x9">
-                  <iframe
-                    src="https://www.youtube.com/embed/NPYqnGNO_zw"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen
-                  ></iframe>
-                </div>
-                <!--//embed-responsive -->
-              </div>
-              <!--//col-->
-            </div>
-            <!--//row-->
-          </div>
-          <!--//container-->
-        </div>
-        <!--//media-block-->
       </section>
       <!--//about-section-->
 
@@ -288,163 +226,7 @@
       <Schedule />
       <!--//schedule-section-->
 
-      <section
-        id="tickets-section"
-        class="tickets-section section theme-bg-light"
-      >
-        <div class="container">
-          <h3 class="section-heading text-center mb-3">Tickets</h3>
-          <div class="section-intro single-col-max mx-auto text-center mb-4">
-            You can use 3rd party platforms such as
-            <a
-              class="theme-link"
-              href="https://www.eventbrite.com/"
-              target="_blank"
-              >eventbrite</a
-            >
-            and
-            <a
-              class="theme-link"
-              href="https://www.tickettailor.com/"
-              target="_blank"
-              >tickettailor</a
-            >
-            to sell your tickets.
-          </div>
-
-          <div class="row pricing mb-5">
-            <div class="col-12 col-md-4 p-2 p-lg-4">
-              <div class="card rounded-0 border-0">
-                <div class="card-body p-0">
-                  <div class="heading text-center p-3">
-                    <h4 class="text-white mb-0">Super Early Bird</h4>
-                  </div>
-                  <div class="info p-3">
-                    <div class="price-figure text-center mb-3">
-                      <span class="currency">$</span
-                      ><span class="number">250</span>
-                    </div>
-                    <div class="desc px-3">
-                      Purchase before 1st Oct 2019. Only 50 tickets available.
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    </div>
-                  </div>
-                  <!--//info-->
-                </div>
-                <!--//card-body-->
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-            <div class="col-12 col-md-4 p-2 p-lg-4">
-              <div class="card card-special rounded-0 border-0">
-                <div class="card-body p-0">
-                  <div class="heading text-center p-3">
-                    <h4 class="text-white mb-0">Early Bird</h4>
-                  </div>
-                  <div class="info p-3">
-                    <div class="price-figure text-center">
-                      <span class="currency">$</span
-                      ><span class="number">350</span>
-                    </div>
-                    <div class="desc px-3">
-                      Purchase before 1st June 2022. Only 100 tickets available.
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    </div>
-                  </div>
-                  <!--//info-->
-                </div>
-                <!--//card-body-->
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-            <div class="col-12 col-md-4 p-2 p-lg-4">
-              <div class="card rounded-0 border-0">
-                <div class="card-body p-0">
-                  <div class="heading text-center p-3">
-                    <h4 class="text-white mb-0">Regular</h4>
-                  </div>
-                  <div class="info p-3">
-                    <div class="price-figure text-center mb-3">
-                      <span class="currency">$</span
-                      ><span class="number">500</span>
-                    </div>
-                    <div class="desc px-3">
-                      Additional freebies and benefits included. Lorem ipsum
-                      dolor sit amet, consectetur adipiscing elit.
-                    </div>
-                  </div>
-                  <!--//info-->
-                </div>
-                <!--//card-body-->
-              </div>
-              <!--//card-->
-            </div>
-            <!--//col-->
-          </div>
-          <!--//pricing-->
-
-          <div class="offers text-center bg-white p-4 p-lg-5">
-            <h4 class="mb-3">What's included?</h4>
-            <ul
-              class="
-                offers-list
-                list-unstyled
-                d-inline-block
-                mx-auto
-                text-start
-              "
-            >
-              <li>
-                <span class="icon-holder me-2"
-                  ><i class="fas fa-user-tie"></i></span
-                >60+ talks from industry-leading speakers
-              </li>
-              <li>
-                <span class="icon-holder me-2"
-                  ><i class="fas fa-people-carry"></i></span
-                >Access to 40+ workshops
-              </li>
-              <li>
-                <span class="icon-holder me-2"
-                  ><i class="fas fa-glass-cheers"></i></span
-                >Amazing after-parties
-              </li>
-              <li>
-                <span class="icon-holder me-2"
-                  ><i class="fas fa-utensils"></i></span
-                >FREE drinks, refreshments, lunch and dinner
-              </li>
-              <li>
-                <span class="icon-holder me-2"
-                  ><i class="fas fa-tshirt"></i></span
-                >FREE
-                <a href="https://made4dev.com/" target="_blank"
-                  >premium developer tees from made4dev</a
-                >
-              </li>
-              <li>
-                <span class="icon-holder me-2"><i class="fas fa-book"></i></span
-                >FREE Udemy courses
-              </li>
-              <li>
-                <span class="icon-holder me-2"><i class="fas fa-gift"></i></span
-                >FREE
-                <a
-                  href="https://themes.3rdwavemedia.com/freebies/"
-                  target="_blank"
-                  >Bootstrap templates and digital resources</a
-                >
-                for developers worth over $100
-              </li>
-            </ul>
-            <!--offers-list-->
-          </div>
-          <!--//offers-->
-        </div>
-        <!--//container-->
-      </section>
+      <Ticket />
       <!--//tickets-section-->
 
       <Venue />
@@ -455,10 +237,6 @@
 
       <Footer />
       <!--//Footer-->
-
-      <!-- Modal Speaker -->
-      
-      <!--//modal-->
     </div>
     <router-view />
   </div>
@@ -469,6 +247,7 @@ import Speakers from './components/Speakers.vue'
 import Schedule from './components/Schedule.vue'
 import Venue from './components/Venue.vue'
 import Sponsor from './components/Sponsor.vue'
+import Ticket from './components/Ticket.vue'
 import Footer from './components/Footer.vue'
 export default {
   components:{
@@ -476,6 +255,7 @@ export default {
     Schedule,
     Venue,
     Sponsor,
+    Ticket,
     Footer
   }
 }
