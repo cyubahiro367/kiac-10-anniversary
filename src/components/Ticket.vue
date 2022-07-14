@@ -58,7 +58,7 @@
                       ><span class="number">325</span>
                     </div>
                     <div class="desc px-3" style="text-align: center">
-                      Purchase before 16th August 2022.
+                      Purchase after 16th August 2022.
                     </div>
                   </div>
                   <!--//info-->

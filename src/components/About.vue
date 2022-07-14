@@ -6,10 +6,10 @@
             <p>
               2022 marks the 10th Anniversary of the Kigali International Arbitration Center (KIAC) This event is an opportunity to celebrate KIAC's Arbitration cases 
               out of which 40% are international cases with parties from Burundi, China, Ethiopia, Egypt, France, India, Italy, Kenya,
-              Korea, Nigeria, Pakistan, South Africa, SOuth Korea, Singapore, Rwanda, Sapin, Sqitzerland, Tanzania, Turkey, Uganda, USA, Zambia
+              Korea, Nigeria, Pakistan, South Africa, South Korea, Singapore, Rwanda, Spain, Switzerland, Tanzania, Turkey, Uganda, USA, Zambia
             </p>
             <p>
-              The Anniversarywill be celebrated by a conference where the international Arbitration community will gather in kigali to discuss the hot topics shaping the future 
+              The Anniversary will be celebrated by a conference where the international Arbitration community will gather in kigali to discuss the hot topics shaping the future 
               of international Arbitration in one of the major African Arbitral institutions.
               Funthermore, the event will be an opportunity to share the role of courts in support of Arbitration in Rwanda where none of KIAC Awards has never been set aside.
             </p>

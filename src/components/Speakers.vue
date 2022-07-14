@@ -33,16 +33,28 @@ export default {
     return {
       speakers: [
         {
-          image: "assets/images/speakers/speaker-1.jpg",
-          name: "James Doe",
+          image: "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
           role: "Senior Software Developer",
-          location: "Angular Core Team"
+          location: "Rwanda"
         },
         {
-          image: "assets/images/speakers/speaker-2.jpg",
-          name: "Sarah Doe",
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
           role: "Developer Advocate",
-          location: "Google"
+          location: "Rwanda"
+        },
+        {
+          image: "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda"
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda"
         }
       ]
     }

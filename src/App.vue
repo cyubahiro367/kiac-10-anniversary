@@ -97,7 +97,7 @@
           <div class="hero-text-block">
             <h1 class="hero-heading mb-2" style="color: #FF8C00">KIAC 10 Anniversary 2022</h1>
             <div class="hero-meta mb-3">
-              <i class="far fa-calendar-alt me-2"></i>12 - 15 Oct
+              <i class="far fa-calendar-alt me-2"></i>29 - 30 Sept
               <i class="fas fa-map-marker-alt mx-2"></i>Kigali City, Rwanda
             </div>
             <div class="hero-intro mb-4">

@@ -3885,8 +3885,8 @@ textarea.form-control-lg {
 }
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: var(--bs-nav-tabs-link-active-color);
-  background-color: var(--bs-nav-tabs-link-active-bg);
+  color: #00008B;
+  background-color: #00008B;
   border-color: var(--bs-nav-tabs-link-active-border-color);
 }
 .nav-tabs .dropdown-menu {
@@ -3912,8 +3912,8 @@ textarea.form-control-lg {
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: var(--bs-nav-pills-link-active-color);
-  background-color: var(--bs-nav-pills-link-active-bg);
+  color: #00008B;
+  background-color: #00008B;
 }
 
 .nav-fill > .nav-link,
@@ -4008,7 +4008,7 @@ textarea.form-control-lg {
 }
 .navbar-nav .show > .nav-link,
 .navbar-nav .nav-link.active {
-  color: var(--bs-navbar-active-color);
+  color: #00008B;
 }
 .navbar-nav .dropdown-menu {
   position: static;
