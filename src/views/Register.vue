@@ -60,12 +60,12 @@
             <div class="col-md-6 col-sm-12 col-xs-12">
               <label>JOB TITLE <span style="color: red">*</span></label>
               <input
-                name="email"
-                type="email"
+                name="jobTitle"
+                type="text"
                 class="form-control"
                 id="email"
                 placeholder="Job Title"
-                v-model="attender.email"
+                v-model="attender.jobTitle"
               />
             </div>
           </div>
