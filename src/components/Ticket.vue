@@ -33,6 +33,15 @@
                 </div>
               </div>
             </div>
+            <div class="about-cta text-center mb-5">
+              <a
+                class="btn btn-secondary btn-lg mb-5"
+                style="background-color: #00008b"
+                href="https://kiac.org.rw/pop.php"
+                target="_blank"
+                >Make Payment</a
+              >
+            </div>
           </div>
         </div>
         <div class="col-12 col-md-6 p-2 p-lg-6">
@@ -49,6 +58,15 @@
                   Purchase after 16th August 2022.
                 </div>
               </div>
+            </div>
+            <div class="about-cta text-center mb-5">
+              <a
+                class="btn btn-secondary btn-lg mb-5"
+                style="background-color: #00008b"
+                href="https://kiac.org.rw/pop.php"
+                target="_blank"
+                >Make Payment</a
+              >
             </div>
           </div>
         </div>

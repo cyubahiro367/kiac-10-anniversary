@@ -28,14 +28,12 @@
               Arbitration Center (KIAC)
             </div>
             <div class="hero-cta">
-              <a
-                class="btn btn-primary btn-lg"
-                style="background-color: #ff8c00"
-                href="#modal-speaker-2"
-                data-bs-toggle="modal"
-                data-bs-target="#modal-speaker-2"
-                >Register</a
-              >
+              <router-link
+                  to="/register"
+                  class="btn btn-secondary"
+                  style="background-color: #ff8c00"
+                  >Register</router-link
+                >
             </div>
           </div>
         </div>
