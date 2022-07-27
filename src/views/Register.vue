@@ -17,6 +17,7 @@
                     id="fullname"
                     placeholder="First Name"
                     v-model="attender.firstName"
+                    required
                   />
                 </div>
                 <div class="col-md-6 col-sm-12 col-xs-12">
@@ -27,6 +28,7 @@
                     id="fullname"
                     placeholder="Last Name"
                     v-model="attender.lastName"
+                    required
                   />
                 </div>
               </div>
@@ -41,6 +43,7 @@
                 id="email"
                 placeholder="example@example.com"
                 v-model="attender.email"
+                required
               />
             </div>
           </div>
@@ -54,6 +57,7 @@
                 class="form-control"
                 id="fullname"
                 v-model="attender.organisation"
+                required
               />
             </div>
 
@@ -66,6 +70,7 @@
                 id="email"
                 placeholder="Job Title"
                 v-model="attender.jobTitle"
+                required
               />
             </div>
           </div>
@@ -78,6 +83,7 @@
             id="fullname"
             placeholder="Company Address"
             v-model="attender.companyAddress"
+            required
           />
           <br />
           <div class="row">
@@ -90,6 +96,7 @@
                 id="fullname"
                 placeholder="Phone Number"
                 v-model="attender.phoneNumber"
+                required
               />
             </div>
 
@@ -102,6 +109,7 @@
                 id="fullname"
                 placeholder="Country"
                 v-model="attender.country"
+                required
               />
             </div>
           </div>

@@ -13,16 +13,16 @@ axios.defaults.baseURL = process.env.VUE_APP_API_URL
 axios.defaults.headers.post['Content-Type'] = 'application/json';
 
 const options = {
-  color: '#FF8C00',
-  failedColor: '#874b4b',
-  thickness: '5px',
+  color: '#ff8c00',
+  failedColor: 'red',
+  thickness: '10px',
   transition: {
     speed: '0.2s',
     opacity: '0.6s',
     termination: 300
   },
   autoRevert: true,
-  location: 'left',
+  location: 'top',
   inverse: false
 }
 

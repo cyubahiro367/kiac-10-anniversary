@@ -10,12 +10,22 @@
           <div class="container-fluid">
             <nav class="main-nav navbar navbar-expand-lg">
               <div class="site-logo">
-                <a class="scrollto" href="#"
+                <router-link
+                  to="/"
+                  class="scrollto"
+                  style="background-color: #ff8c00"
                   ><img
                     class="logo-icon"
                     src="assets/images/logos/KIAC-1-400x350.png"
                     alt="kiac-logo"
-                /></a>
+                /></router-link
+                >
+                <!-- <a class="scrollto" href="#"
+                  ><img
+                    class="logo-icon"
+                    src="assets/images/logos/KIAC-1-400x350.png"
+                    alt="kiac-logo"
+                /></a> -->
               </div>
               <div class="navbar-btn order-lg-2">
                 <router-link
