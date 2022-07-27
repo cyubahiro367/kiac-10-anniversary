@@ -27,41 +27,33 @@
         <h4 class="text-center mb-4">Topics include:</h4>
         <ul class="list-unstyled text-start d-inline-block">
           <li>
-            <i class="fas fa-check-circle me-2"></i>Disclosure in international
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>Disclosure in international
             Arbitration: Current trends
           </li>
           <li>
-            <i class="fas fa-check-circle me-2"></i>Joinder and Multiparty
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>Joinder and Multiparty
             Arbitration: Comparative perspectives
           </li>
           <li>
-            <i class="fas fa-check-circle me-2"></i>The Revised 2020 IBA Rules
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The Revised 2020 IBA Rules
             of Evidence in international Arbitration and its commentary
           </li>
           <li>
-            <i class="fas fa-check-circle me-2"></i>The virtual hearing
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The virtual hearing
             Protocols: What Practitioners need to know
           </li>
           <li>
-            <i class="fas fa-check-circle me-2"></i>Analysis of what need to be
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>Analysis of what need to be
             amended in the Rwanda Arbitration act 2018
           </li>
           <li>
-            <i class="fas fa-check-circle me-2"></i>The Dispute Resolution
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The Dispute Resolution
             options under Africa Continental Free Trade Agreement (AFCTA)
           </li>
         </ul>
       </div>
       <div class="event-countdown text-center mb-3">
         <h4 class="countdown-intro mb-2 text-center mb-3">Event Starts In:</h4>
-        <span class="number" style="font-size: 80px"> {{ days }} </span>
-        <span class="unit">Days</span>
-        <span class="number" style="font-size: 80px"> {{ hours }} </span>
-        <span class="unit">Hrs</span>
-        <span class="number" style="font-size: 80px"> {{ minutes }} </span>
-        <span class="unit">Mins</span>
-        <span class="number" style="font-size: 80px"> {{ seconds }} </span>
-        <span class="unit">Secs</span>
         <div id="countdown-box" class="countdown-box"></div>
       </div>
       <div class="about-cta text-center mb-5">
@@ -70,7 +62,7 @@
           style="background-color: #00008b"
           href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
           target="_blank"
-          >Register Today</a
+          >Get Your Ticket Today</a
         >
       </div>
     </div>
@@ -88,23 +80,69 @@ export default {
     };
   },
   mounted() {
-    this.countdown();
+    this.count();
   },
   methods: {
-    countdown() {
+    count() {
+      // set the date we're counting down to
       var target_date = new Date("Sept 29, 2022").getTime();
-      var current_date = new Date().getTime();
-      var seconds_left = (target_date - current_date) / 1000;
+
+      // variables for time units
       var days, hours, minutes, seconds;
 
-      this.days = parseInt(seconds_left / 86400);
-      seconds_left = seconds_left % 86400;
+      // get tag element
+      var countdown = document.getElementById("countdown-box");
+      var days_span = document.createElement("SPAN");
+      days_span.className = "days";
+      countdown.appendChild(days_span);
+      var hours_span = document.createElement("SPAN");
+      hours_span.className = "hours";
+      countdown.appendChild(hours_span);
+      var minutes_span = document.createElement("SPAN");
+      minutes_span.className = "minutes";
+      countdown.appendChild(minutes_span);
+      var secs_span = document.createElement("SPAN");
+      secs_span.className = "secs";
+      countdown.appendChild(secs_span);
 
-      this.hours = parseInt(seconds_left / 3600);
-      seconds_left = seconds_left % 3600;
+      // update the tag with id "countdown" every 1 second
+      setInterval(function () {
+        // find the amount of "seconds" between now and target
+        var current_date = new Date().getTime();
+        var seconds_left = (target_date - current_date) / 1000;
 
-      this.minutes = parseInt(seconds_left / 60);
-      this.seconds = parseInt(seconds_left % 60);
+        // do some time calculations
+        days = parseInt(seconds_left / 86400);
+        seconds_left = seconds_left % 86400;
+
+        hours = parseInt(seconds_left / 3600);
+        seconds_left = seconds_left % 3600;
+
+        minutes = parseInt(seconds_left / 60);
+        seconds = parseInt(seconds_left % 60);
+
+        // format countdown string + set tag value.
+        days_span.innerHTML =
+          '<span class="number">' +
+          days +
+          "</span>" +
+          '<span class="unit">Days</span>';
+        hours_span.innerHTML =
+          '<span class="number">' +
+          hours +
+          "</span>" +
+          '<span class="unit">Hrs</span>';
+        minutes_span.innerHTML =
+          '<span class="number">' +
+          minutes +
+          "</span>" +
+          '<span class="unit">Mins</span>';
+        secs_span.innerHTML =
+          '<span class="number">' +
+          seconds +
+          "</span>" +
+          '<span class="unit">Secs</span>';
+      }, 1000);
     },
   },
 };

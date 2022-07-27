@@ -2,20 +2,6 @@
   <section id="tickets-section" class="tickets-section section theme-bg-light">
     <div class="container">
       <h3 class="section-heading text-center mb-3">Tickets</h3>
-      <div class="section-intro single-col-max mx-auto text-center mb-4">
-        You can use 3rd party platforms such as
-        <a class="theme-link" href="https://www.eventbrite.com/" target="_blank"
-          >eventbrite</a
-        >
-        and
-        <a
-          class="theme-link"
-          href="https://www.tickettailor.com/"
-          target="_blank"
-          >tickettailor</a
-        >
-        to sell your tickets.
-      </div>
 
       <div class="row pricing mb-5">
         <div class="col-12 col-md-6 p-2 p-lg-6">
