@@ -7,7 +7,7 @@
           class="hero-carousel carousel slide carousel-fade"
           data-ride="carousel"
         >
-          <div class="carousel-inner">
+          <div class="carousel-inner" style=" ">
             <div class="carousel-item-1 carousel-item active"></div>
             <div class="carousel-item-2 carousel-item"></div>
             <div class="carousel-item-3 carousel-item"></div>
@@ -47,26 +47,26 @@
           <div class="row">
             <div class="col-6 col-md-3">
               <div class="item">
-                <div class="number">2000+</div>
+                <div class="number">500+</div>
                 <div class="unit">Attendees</div>
               </div>
             </div>
             <div class="col-6 col-md-3">
               <div class="item">
-                <div class="number">3</div>
+                <div class="number">2</div>
                 <div class="unit">Days</div>
               </div>
             </div>
             <div class="col-6 col-md-3">
               <div class="item">
-                <div class="number">60+</div>
-                <div class="unit">Talks</div>
+                <div class="number">10+</div>
+                <div class="unit">Topics</div>
               </div>
             </div>
             <div class="col-6 col-md-3">
               <div class="item">
-                <div class="number">10+</div>
-                <div class="unit">Workshops</div>
+                <div class="number">30+</div>
+                <div class="unit">Speakers</div>
               </div>
             </div>
           </div>

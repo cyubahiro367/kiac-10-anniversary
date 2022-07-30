@@ -2,7 +2,25 @@
   <section id="tickets-section" class="tickets-section section theme-bg-light">
     <div class="container">
       <h3 class="section-heading text-center mb-3">Tickets</h3>
-
+			<div class="section-intro single-col-max mx-auto text-center mb-4">
+        <div class="row">
+          <div class="col-md-3 col-sm-4 col-xs-12">
+            <h5>Pay through:</h5>
+            <p><a style="text-decoration:none; color:#00008b" href="https://kiac.org.rw/pop.php">VISA card</a> Or Bank Transfer</p>
+          </div>
+          <div class="col-md-5 col-sm-4 col-xs-12">
+            <h6>Bank and Bank Account:</h6>
+            <p><b>I&M Bank Rwanda Ltd 25042751002</b> (US Dollar) for Kigali International Arbitration Centre (KIAC);</p>
+            <p><b>Swift Code: IMRWRWRW</b></p>
+          </div>
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <h6>Correspondent Bank:</h6>
+            <p><b>ING BELGIUM, Swift Code: BBRUBEBB or</b></p>
+            <p><b>CITIBANK NY SWIFT code: CITIUS33</b></p>
+          </div>
+      
+        </div>
+      </div>
       <div class="row pricing mb-5">
         <div class="col-12 col-md-6 p-2 p-lg-6">
           <div class="card rounded-0 border-0">
@@ -25,7 +43,7 @@
                 style="background-color: #00008b"
                 href="https://kiac.org.rw/pop.php"
                 target="_blank"
-                >Make Payment</a
+                >Make Online Payment</a
               >
             </div>
           </div>
@@ -51,7 +69,7 @@
                 style="background-color: #00008b"
                 href="https://kiac.org.rw/pop.php"
                 target="_blank"
-                >Make Payment</a
+                >Make Online Payment</a
               >
             </div>
           </div>

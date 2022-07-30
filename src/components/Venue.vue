@@ -59,7 +59,11 @@
                   hendrerit dictum lacus. Aenean iaculis massa felis, eget
                   venenatis turpis lacinia sit amet.
                 </p>
-                <a class="btn btn-ghost" href="#">Search Hotels</a>
+                <router-link
+          to="/hotels"
+          class="btn btn-ghost"
+          >Search Hotels</router-link
+        >
               </div>
               <!--//desc-->
             </div>

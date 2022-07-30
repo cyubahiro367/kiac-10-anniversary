@@ -27,28 +27,31 @@
         <h4 class="text-center mb-4">Topics include:</h4>
         <ul class="list-unstyled text-start d-inline-block">
           <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>Disclosure in international
-            Arbitration: Current trends
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i
+            >Disclosure in international Arbitration: Current trends
           </li>
           <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>Joinder and Multiparty
-            Arbitration: Comparative perspectives
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i
+            >Joinder and Multiparty Arbitration: Comparative perspectives
           </li>
           <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The Revised 2020 IBA Rules
-            of Evidence in international Arbitration and its commentary
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            Revised 2020 IBA Rules of Evidence in international Arbitration and
+            its commentary
           </li>
           <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The virtual hearing
-            Protocols: What Practitioners need to know
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            virtual hearing Protocols: What Practitioners need to know
           </li>
           <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>Analysis of what need to be
-            amended in the Rwanda Arbitration act 2018
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i
+            >Analysis of what need to be amended in the Rwanda Arbitration act
+            2018
           </li>
           <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The Dispute Resolution
-            options under Africa Continental Free Trade Agreement (AFCTA)
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            Dispute Resolution options under Africa Continental Free Trade
+            Agreement (AFCTA)
           </li>
         </ul>
       </div>
@@ -57,12 +60,11 @@
         <div id="countdown-box" class="countdown-box"></div>
       </div>
       <div class="about-cta text-center mb-5">
-        <a
+        <router-link
+          to="/register"
           class="btn btn-secondary btn-lg mb-5"
           style="background-color: #00008b"
-          href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devconf-free-bootstrap-4-conference-template-for-tech-conferences-and-events/"
-          target="_blank"
-          >Get Your Ticket Today</a
+          >Register Now</router-link
         >
       </div>
     </div>

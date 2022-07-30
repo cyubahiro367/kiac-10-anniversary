@@ -67,7 +67,7 @@
                   </li>
                   <li class="nav-item">
                     <a class="nav-link scrollto" href="#tickets-section"
-                      >Tickets</a
+                      >Fees</a
                     >
                   </li>
                   <li class="nav-item">
