@@ -1,7 +1,7 @@
 <template>
   <div class="container" style="margin-top: 100px">
-    <h3 class="section-heading text-center mb-3">Register</h3>
-    <form @submit.prevent="createAttender()">
+    <h3 class="section-heading text-center mb-3">Become sponsor</h3>
+    <form @submit.prevent="becomeSponsor()">
       <div class="row">
         <div class="col-md-2 col-sm-2 col-xs-12"></div>
         <div class="col-md-8 col-sm-8 col-xs-12">
@@ -158,7 +158,7 @@ export default {
     };
   },
   methods: {
-    async createAttender() {
+    async becomeSponsor() {
       this.$Progress.start();
       const data = {
         firstName: this.attender.firstName,

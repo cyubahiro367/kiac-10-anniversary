@@ -4,6 +4,7 @@ import Home from '../views/Home.vue'
 import Register from '../views/Register.vue'
 import Hotels from '../views/Hotels.vue'
 
+
 Vue.use(VueRouter)
 
 const routes = [
@@ -21,6 +22,11 @@ const routes = [
     path: '/hotels',
     name: 'Hotels',
     component: Hotels
+  },
+  {
+    path: '/become-sponsor',
+    name: 'BecomeSponsor',
+    component: BecomeSponsor
   }
 ]
 

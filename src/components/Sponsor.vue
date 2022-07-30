@@ -47,6 +47,7 @@
             </div>
           </div>
           <!--//row-->
+			    <div class="sponsors-cta text-center pt-5"><a class="btn-primary btn btn-lg" href="#">Become A Sponsor</a></div>
         </div>
         <!--//container-->
       </section>
