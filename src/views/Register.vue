@@ -7,9 +7,28 @@
         <div class="col-md-8 col-sm-8 col-xs-12">
           <div class="row">
             <div class="col-md-6 col-sm-12 col-xs-12">
-              <label>NAMES <span style="color: red">*</span></label>
+              <label>TITLE NAMES <span style="color: red">*</span></label>
               <div class="row">
-                <div class="col-md-6 col-sm-12 col-xs-12">
+                <div class="col-md-2 col-sm-12 col-xs-12">
+
+                  <select class="form-control" name="cars" id="cars">
+                    <option value="volvo">Mr</option>
+                    <option value="saab">Mrs</option>
+                    <option value="mercedes">Ms</option>
+                  </select>
+
+
+                  <!-- <input
+                    name="firstName"
+                    type="text"
+                    class="form-control"
+                    id="fullname"
+                    placeholder="First Name"
+                    v-model="attender.firstName"
+                    required
+                  /> -->
+                </div>
+                <div class="col-md-5 col-sm-12 col-xs-12">
                   <input
                     name="firstName"
                     type="text"
@@ -20,7 +39,7 @@
                     required
                   />
                 </div>
-                <div class="col-md-6 col-sm-12 col-xs-12">
+                <div class="col-md-5 col-sm-12 col-xs-12">
                   <input
                     name="lastName"
                     type="text"
@@ -56,6 +75,7 @@
                 type="text"
                 class="form-control"
                 id="fullname"
+                placeholder="organisation"
                 v-model="attender.organisation"
                 required
               />

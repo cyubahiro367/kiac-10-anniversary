@@ -3,7 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Register from '../views/Register.vue'
 import Hotels from '../views/Hotels.vue'
-
+import BecomeSponsor from '../views/SponsorRegistration.vue'
 
 Vue.use(VueRouter)
 

@@ -2,11 +2,32 @@
   <section id="about-section" class="about-section section theme-bg-light">
     <div class="container">
       <h3 class="section-heading text-center mb-3">
+        ABOUT KIGALI INTERNATIONAL ARBITRATION CENTER
+      </h3>
+      <div class="section-intro single-col-max mx-auto mb-4">
+        <p>
+          The Kigali International Arbitration Centre (KIAC) is the premier and sole arbitration
+          institution in Rwanda that was created by an Act of Parliament in 2010 (Law N°51/2010
+          of 10/01/2010 Establishing the Kigali International Arbitration Centre and determining its
+          organization, functioning and competence). The Centre was officially launched in May
+          2012 as an autonomous and non-profit making institution.
+        </p>
+        <p>
+          The creation of KIAC is an initiative of the Rwanda Private Sector to provide institutional
+          support to commercial dispute resolution proceedings in the region and beyond. KIAC’s
+          mandate is to help economic operators to resolve their disputes amicably and promote
+          the use of Alternative Dispute Resolution (ADR) as an integral part of good business
+          practice.
+        </p>
+      </div>
+    </div>
+    <div class="container">
+      <h3 class="section-heading text-center mb-3">
         About 10 Years Anniversary Of KIAC
       </h3>
       <div class="section-intro single-col-max mx-auto mb-4">
         <p>
-          2022 marks the 10th Anniversary of the Kigali International
+          The year 2022 marks the 10th Anniversary of the Kigali International
           Arbitration Center (KIAC) This event is an opportunity to celebrate
           KIAC's Arbitration cases out of which 40% are international cases with
           parties from Burundi, China, Ethiopia, Egypt, France, India, Italy,
@@ -24,34 +45,36 @@
         </p>
       </div>
       <div class="benefits-list text-center mb-3">
+        <h4 class="text-center mb-4">WHO SHOULD ATTEND?</h4>
+        <p>Arbitration & ADR practitioners, Government Representatives, Judiciary, Private Sector,
+          legal practitioners, academia; etc…</p>
+      </div>
+      <div class="benefits-list text-center mb-3">
         <h4 class="text-center mb-4">Topics include:</h4>
         <ul class="list-unstyled text-start d-inline-block">
           <li>
             <i class="fas fa-check-circle me-2" style="color: #00008b"></i
-            >Disclosure in international Arbitration: Current trends
+            >Disclosure in International Arbitration: Current trends.
           </li>
           <li>
             <i class="fas fa-check-circle me-2" style="color: #00008b"></i
-            >Joinder and Multiparty Arbitration: Comparative perspectives
+            >Joinder and Multiparty Arbitration: Comparative perspectives.
           </li>
           <li>
             <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            Revised 2020 IBA Rules of Evidence in international Arbitration and
-            its commentary
+            The Revised 2020 IBA Rules of Evidence in international arbitration and its Commentary.
           </li>
           <li>
             <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            virtual hearing Protocols: What Practitioners need to know
+            The virtual hearing Protocols: What Practitioners need to know.
           </li>
           <li>
             <i class="fas fa-check-circle me-2" style="color: #00008b"></i
-            >Analysis of what need to be amended in the Rwanda Arbitration act
-            2018
+            >Analysis of what need to be amended in the Rwandan arbitration act 2008.
           </li>
           <li>
             <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            Dispute Resolution options under Africa Continental Free Trade
-            Agreement (AFCTA)
+            The Dispute Resolution options under Africa Continental Free Trade Agreement (AFCTA).
           </li>
         </ul>
       </div>
