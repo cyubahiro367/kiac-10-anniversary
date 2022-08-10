@@ -56,6 +56,240 @@ export default {
           role: "Developer Advocate",
           location: "Rwanda",
         },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
+        {
+          image:
+            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+          name: "Hon Dr Emmanuel UGIRASHEBUJA",
+          role: "Senior Software Developer",
+          location: "Rwanda",
+        },
+        {
+          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          name: "Dr Faustin NTEZILYAYO",
+          role: "Developer Advocate",
+          location: "Rwanda",
+        },
       ],
     };
   },

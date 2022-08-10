@@ -16,13 +16,6 @@
                     <div class="meta">{{ role }}</div>
                     <div class="meta">{{ location }}</div>
                   </div>
-                  <!--//card-text-->
-                  <a
-                    href="#modal-speaker-1"
-                    data-bs-toggle="modal"
-                    data-bs-target="#modal-speaker-1"
-                    >Read more &rarr;</a
-                  >
                 </div>
                 <!--//card-->
               </div>

@@ -32,39 +32,39 @@ export default {
       speakers: [
         {
           image:
-            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+            "assets/images/speakers/speaker-1.jpg",
           name: "Prof. Mohamed Abdel Wahab",
           location: "(Egypt)",
         },
         {
-          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          image: "assets/images/speakers/speaker-2.jpg",
           name: "Prof. Emilia Onyema",
           location: "(SOAS/UK)",
         },
         {
           image:
-            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+            "assets/images/speakers/speaker-3.jpg",
           name: "Hon. Isaiah Bosio",
           location: "(Nigeria)",
         },
         {
-          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          image: "assets/images/speakers/speaker-4.jpg",
           name: "Mr. Thomas Kendra",
           location: "(France)",
         },
         {
-          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          image: "assets/images/speakers/speaker-5.jpg",
           name: "Mr. Babatunde Ogunseitan",
           location: "(UK)",
         },
         {
           image:
-            "assets/images/speakers/Hon.-Dr.-Emmanuel-UGIRASHEBUJA-350x350.png",
+            "assets/images/speakers/speaker-6.jpg",
           name: "Mr. Thierry Ngoga",
           location: "(Rwanda)",
         },
         {
-          image: "assets/images/speakers/Dr.-Faustin-NTEZILYAYO-350x350.png",
+          image: "assets/images/speakers/speaker-7.jpg",
           name: "Mr. Victor Mugabe",
           location: "(Rwanda)",
         },

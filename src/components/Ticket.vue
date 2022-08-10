@@ -77,44 +77,28 @@
       </div>
 
       <div class="offers text-center bg-white p-4 p-lg-5">
-        <h4 class="mb-3">What's included?</h4>
+        <h4 class="mb-3">The fee covers all conference activities including:</h4>
         <ul class="offers-list list-unstyled d-inline-block mx-auto text-start">
           <li>
             <span class="icon-holder me-2"><i class="fas fa-user-tie"></i></span
-            >60+ talks from industry-leading speakers
+            >Networking reception
           </li>
           <li>
             <span class="icon-holder me-2"
               ><i class="fas fa-people-carry"></i></span
-            >Access to 40+ workshops
-          </li>
-          <li>
-            <span class="icon-holder me-2"
-              ><i class="fas fa-glass-cheers"></i></span
-            >Amazing after-parties
+            >workshop
+materials
           </li>
           <li>
             <span class="icon-holder me-2"><i class="fas fa-utensils"></i></span
-            >FREE drinks, refreshments, lunch and dinner
+            >lunches
           </li>
           <li>
-            <span class="icon-holder me-2"><i class="fas fa-tshirt"></i></span
-            >FREE
-            <a href="https://made4dev.com/" target="_blank"
-              >premium developer tees from made4dev</a
-            >
+            coffee/tea breaks and a dinner on Thursday 29th and Friday 30th
+September 2022
           </li>
           <li>
-            <span class="icon-holder me-2"><i class="fas fa-book"></i></span
-            >FREE Udemy courses
-          </li>
-          <li>
-            <span class="icon-holder me-2"><i class="fas fa-gift"></i></span
-            >FREE
-            <a href="https://themes.3rdwavemedia.com/freebies/" target="_blank"
-              >Bootstrap templates and digital resources</a
-            >
-            for developers worth over $100
+            Travel and hotel expenses are not included.
           </li>
         </ul>
       </div>
