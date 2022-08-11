@@ -3,9 +3,9 @@
     <div class="container">
       <h3 class="section-heading text-center mb-3">Speakers</h3>
       <div class="section-intro text-center single-col-max mx-auto mb-5">
-        Speakers will include eminent international arbitration practitioners & scholars from
-        across the globe (for more details about speakers visit our website www.kiac.org.rw).
-        Some Confirmed speakers include:
+        Speakers will include eminent international arbitration practitioners &
+        scholars from across the globe (for more details about speakers visit
+        our website www.kiac.org.rw). Some Confirmed speakers include:
       </div>
       <div class="row">
         <SpeakersCard
@@ -31,8 +31,7 @@ export default {
     return {
       speakers: [
         {
-          image:
-            "assets/images/speakers/speaker-1.jpg",
+          image: "assets/images/speakers/speaker-1.jpg",
           name: "Prof. Mohamed Abdel Wahab",
           location: "(Egypt)",
         },
@@ -42,8 +41,7 @@ export default {
           location: "(SOAS/UK)",
         },
         {
-          image:
-            "assets/images/speakers/speaker-3.jpg",
+          image: "assets/images/speakers/Isaiah Bozimo.jpg",
           name: "Hon. Isaiah Bosio",
           location: "(Nigeria)",
         },
@@ -58,8 +56,7 @@ export default {
           location: "(UK)",
         },
         {
-          image:
-            "assets/images/speakers/speaker-6.jpg",
+          image: "assets/images/speakers/speaker-6.jpg",
           name: "Mr. Thierry Ngoga",
           location: "(Rwanda)",
         },

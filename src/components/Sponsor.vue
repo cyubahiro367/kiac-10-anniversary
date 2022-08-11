@@ -5,54 +5,46 @@
         <h3 class="section-heading text-center mb-3">
           Sponsors &amp; Partners
         </h3>
+        <div class="section-intro text-center single-col-max mx-auto mb-5">
+          <p>
+            The event will provide a golden marketing opportunity to showcase
+            your products and services to delegates, giving therefore a critical
+            step to maximizing your visibility and networking with arbitration
+            professionals and other high-ranking dignitaries from different
+            parts of the world. Each sponsor and partner will have a tailor-made
+            profile on the KIAC social media platforms and will feature in the
+            event branding materials, based on the sponsorship tiers.
+          </p>
+          <p>
+            It will be in your institution/company’s interest to be associated
+            with this event through sponsorship. Whereby all information about
+            wholly sponsorship packages are illustrated in below table.
+          </p>
+        </div>
         <div class="row logos justify-content-center">
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img src="assets/images/logos/23-400x350.png" alt="" />
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/1.jpg" alt="" />
           </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img src="assets/images/logos/Aztan-Law-Firm-400x350.png" alt="" />
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/2.png" alt="" />
           </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img
-              src="assets/images/logos/BLC-ROBERT-ASSOCIATES-400x350.png"
-              alt=""
-            />
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/3.png" alt="" />
           </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img src="assets/images/logos/CDH-400x350.png" alt="" />
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/4.jpg" alt="" />
           </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img
-              src="assets/images/logos/EAIAC-2022_GBS-Africa-Logo-250x220.png"
-              alt=""
-            />
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/5.jpg" alt="" />
           </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img src="assets/images/logos/IARB-AFRICA-400x350.png" alt="" />
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/6.png" alt="" />
           </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img src="assets/images/logos/LA-LIVE-250x220.png" alt="" />
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/7.jpg" alt="" />
           </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img src="assets/images/logos/Mawalla-250x220.png" alt="" />
-          </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img src="assets/images/logos/Oraro-Company-250x220.png" alt="" />
-          </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img src="assets/images/logos/Reed-Smith-400x350.png" alt="" />
-          </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img
-              src="assets/images/logos/Stephenson-Harwood-400x350.png"
-              alt=""
-            />
-          </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img src="assets/images/logos/Tarco-Air-400x350.png" alt="" />
-          </div>
-          <div class="logo-item col-6 col-md-4 col-lg-2">
-            <img src="assets/images/logos/white-case-250x220.png" alt="" />
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/8.png" alt="" />
           </div>
         </div>
         <!--//row-->
