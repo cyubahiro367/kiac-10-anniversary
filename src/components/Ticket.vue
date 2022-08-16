@@ -2,7 +2,7 @@
   <section id="tickets-section" class="tickets-section section theme-bg-light">
     <div class="container">
       <h3 class="section-heading text-center mb-3">Tickets</h3>
-			<div class="section-intro single-col-max mx-auto text-center mb-4">
+      <!-- <div class="section-intro single-col-max mx-auto text-center mb-4">
         <div class="row">
           <div class="col-md-3 col-sm-4 col-xs-12">
             <h5>Pay through:</h5>
@@ -20,7 +20,7 @@
           </div>
       
         </div>
-      </div>
+      </div> -->
       <div class="row pricing mb-5">
         <div class="col-12 col-md-6 p-2 p-lg-6">
           <div class="card rounded-0 border-0">
@@ -77,7 +77,9 @@
       </div>
 
       <div class="offers text-center bg-white p-4 p-lg-5">
-        <h4 class="mb-3">The fee covers all conference activities including:</h4>
+        <h4 class="mb-3">
+          The fee covers all conference activities including:
+        </h4>
         <ul class="offers-list list-unstyled d-inline-block mx-auto text-start">
           <li>
             <span class="icon-holder me-2"><i class="fas fa-user-tie"></i></span
@@ -86,8 +88,7 @@
           <li>
             <span class="icon-holder me-2"
               ><i class="fas fa-people-carry"></i></span
-            >workshop
-materials
+            >workshop materials
           </li>
           <li>
             <span class="icon-holder me-2"><i class="fas fa-utensils"></i></span
@@ -95,11 +96,53 @@ materials
           </li>
           <li>
             coffee/tea breaks and a dinner on Thursday 29th and Friday 30th
-September 2022
+            September 2022
+          </li>
+          <li>Travel and hotel expenses are not included.</li>
+        </ul>
+        <h6>Accompanying Person Fee: $100 or FRW 100,000</h6>
+        <pre>
+          Accompanying person fees covers the access to the Gala dinner only on Thursday 
+          29th September 2022 The accompanying person fee does not
+          include or allow access to working sessions and their related
+          logistics.
+        </pre>
+        <p>
+          Registration and Payment for the conference will close on
+          <b>20th September 2022</b>
+        </p>
+        <h4 class="mb-3">YOU CAN PAY THROUGH:</h4>
+        <ul class="offers-list list-unstyled d-inline-block mx-auto text-start">
+          <li>
+            <span class="icon-holder me-2"><i class="fa fa-cc-visa"></i></span
+            >VISA card
+            <a href="https://kiac.org.rw/pop.php"
+              >https://kiac.org.rw/pop.php</a
+            >
+          </li>
+          <br />
+          <h5 class="mb-3">Bank and Bank Account:</h5>
+          <li>
+            <span class="icon-holder me-2"
+              ><i class="fas fa-people-carry"></i></span
+            ><b>I&M Bank Rwanda Ltd 25042751002 (US Dollar)</b> for
+            <b>Kigali International Arbitration Centre (KIAC)</b>
           </li>
           <li>
-            Travel and hotel expenses are not included.
+            <span class="icon-holder me-2"><i class="fas fa-utensils"></i></span
+            >Swift Code: <b>IMRWRWRW</b>
           </li>
+          <li>
+            <span class="icon-holder me-2"
+              ><i class="fas fa-utensils"></i
+            ></span>
+            Correspondent Bank:
+            <b
+              >ING BELGIUM, Swift Code: BBRUBEBB or CITIBANK NY SWIFT code:
+              CITIUS33</b
+            >
+          </li>
+          <li>Travel and hotel expenses are not included.</li>
         </ul>
       </div>
     </div>

@@ -13,7 +13,6 @@
                 <div class="card-body">
                   <h5 class="card-title mb-2">{{ name }}</h5>
                   <div class="card-text mb-3">
-                    <div class="meta">{{ role }}</div>
                     <div class="meta">{{ location }}</div>
                   </div>
                 </div>
@@ -31,10 +30,6 @@ export default {
       required: true
     },
     name:{
-      type: String,
-      required: true
-    },
-    role:{
       type: String,
       required: true
     },

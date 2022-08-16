@@ -10,13 +10,11 @@
               <label>TITLE NAMES <span style="color: red">*</span></label>
               <div class="row">
                 <div class="col-md-2 col-sm-12 col-xs-12">
-
                   <select class="form-control" name="cars" id="cars">
                     <option value="volvo">Mr</option>
                     <option value="saab">Mrs</option>
                     <option value="mercedes">Ms</option>
                   </select>
-
 
                   <!-- <input
                     name="firstName"
@@ -122,26 +120,29 @@
 
             <div class="col-md-6 col-sm-12 col-xs-12">
               <label>COUNTRY <span style="color: red">*</span></label>
-              <input
-                name="country"
-                type="text"
-                class="form-control"
-                id="fullname"
-                placeholder="Country"
-                v-model="attender.country"
-                required
-              />
+              <select v-model="attender.country" class="form-control">
+                <option
+                  v-for="count in countries"
+                  :key="count.id"
+                  :value="count.name"
+                >
+                  {{ count.name }}
+                </option>
+              </select>
             </div>
           </div>
           <br />
-          <label>Do you have a proof of payment? if you have already made a payment you can upload it here <span style="color: red">*</span></label>
+          <label
+            >Do you have a proof of payment? if you have already made a payment
+            you can upload it here <span style="color: red">*</span></label
+          >
           <input
             name="attach proof of payment"
             type="file"
+            @change="switchSelect($event)"
             class="form-control"
             id="payment"
             placeholder="proof of payment"
-            required
           />
           <br />
           <center>
@@ -174,25 +175,27 @@ export default {
         companyAddress: null,
         phoneNumber: null,
         country: null,
+        paymentProof: null,
       },
+      countries: [],
     };
   },
   methods: {
     async createAttender() {
       this.$Progress.start();
-      const data = {
-        firstName: this.attender.firstName,
-        lastName: this.attender.lastName,
-        email: this.attender.email,
-        organisation: this.attender.organisation,
-        jobTitle: this.attender.jobTitle,
-        companyAddress: this.attender.companyAddress,
-        phoneNumber: this.attender.phoneNumber,
-        country: this.attender.country,
-      };
+      var formData = new FormData();
+      formData.append('firstName', this.attender.firstName);
+      formData.append('lastName', this.attender.lastName);
+      formData.append('email', this.attender.email);
+      formData.append('organisation', this.attender.organisation);
+      formData.append('jobTitle', this.attender.jobTitle);
+      formData.append('companyAddress', this.attender.companyAddress);
+      formData.append('phoneNumber', this.attender.phoneNumber);
+      formData.append('country', this.attender.country);
+      formData.append('paymentProof', this.attender.paymentProof);
 
       try {
-        await axios.post(`/api/attender`, data);
+        await axios.post(`/api/attender`, formData);
         this.$Progress.finish();
         this.$noty.success("success");
         this.$router.push({ name: "Home" });
@@ -201,6 +204,27 @@ export default {
         console.log(error);
       }
     },
+
+    switchSelect(event) {
+      this.attender.paymentProof = event.target.value;
+    },
+
+    async loadRequiredData() {
+      this.$Progress.start();
+
+      try {
+        const reponse = await axios.get("/api/country");
+        this.$Progress.finish();
+        this.$noty.success("success");
+        this.countries = reponse.data;
+      } catch (error) {
+        this.$Progress.fail();
+        console.log(error);
+      }
+    },
+  },
+  mounted() {
+    this.loadRequiredData();
   },
 };
 </script>

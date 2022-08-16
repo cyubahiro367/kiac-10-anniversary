@@ -5,6 +5,9 @@ import store from './store'
 import axios from 'axios'
 import VueNoty from 'vuejs-noty'
 import VueProgressBar from 'vue-progressbar'
+import Multiselect from "vue-multiselect";
+
+Vue.component("multiselect", Multiselect);
 
 Vue.use(VueNoty)
 
