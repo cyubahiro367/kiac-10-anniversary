@@ -1,5 +1,7 @@
 <template>
-  <section
+  <div>
+    <ComponentHeader />
+    <section
     id="speakers-section"
     class="speakers-section section"
     style="margin-top: 100px"
@@ -24,13 +26,16 @@
       </div>
     </div>
   </section>
+  </div>
 </template>
 
 <script>
 import Hotel from "../components/items/Hotel.vue";
+import ComponentHeader from '../components/ComponentHeader.vue'
 export default {
   components: {
     Hotel,
+    ComponentHeader
   },
   data() {
     return {

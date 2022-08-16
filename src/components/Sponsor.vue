@@ -3,7 +3,7 @@
     <section id="sponsors-section" class="sponsors-section section">
       <div class="container">
         <h3 class="section-heading text-center mb-3">
-          Sponsors &amp; Partners
+          STRATEGIC PARTNERS
         </h3>
         <div class="section-intro text-center single-col-max mx-auto mb-5">
           <p>

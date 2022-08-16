@@ -1,5 +1,6 @@
 <template>
   <div class="container" style="margin-top: 100px">
+    <ComponentHeader />
     <h3 class="section-heading text-center mb-3">Register</h3>
     <form @submit.prevent="createAttender()">
       <div class="row">
@@ -132,7 +133,7 @@
             </div>
           </div>
           <br />
-          <label
+          <!-- <label
             >Do you have a proof of payment? if you have already made a payment
             you can upload it here <span style="color: red">*</span></label
           >
@@ -144,7 +145,7 @@
             id="payment"
             placeholder="proof of payment"
           />
-          <br />
+          <br /> -->
           <center>
             <input
               type="submit"
@@ -162,8 +163,12 @@
 
 <script>
 import axios from "axios";
+import ComponentHeader from '../components/ComponentHeader.vue'
 
 export default {
+  components:{
+    ComponentHeader
+  },
   data() {
     return {
       attender: {
@@ -183,22 +188,32 @@ export default {
   methods: {
     async createAttender() {
       this.$Progress.start();
-      var formData = new FormData();
-      formData.append('firstName', this.attender.firstName);
-      formData.append('lastName', this.attender.lastName);
-      formData.append('email', this.attender.email);
-      formData.append('organisation', this.attender.organisation);
-      formData.append('jobTitle', this.attender.jobTitle);
-      formData.append('companyAddress', this.attender.companyAddress);
-      formData.append('phoneNumber', this.attender.phoneNumber);
-      formData.append('country', this.attender.country);
-      formData.append('paymentProof', this.attender.paymentProof);
+      // var formData = new FormData();
+      // formData.append('firstName', this.attender.firstName);
+      // formData.append('lastName', this.attender.lastName);
+      // formData.append('email', this.attender.email);
+      // formData.append('organisation', this.attender.organisation);
+      // formData.append('jobTitle', this.attender.jobTitle);
+      // formData.append('companyAddress', this.attender.companyAddress);
+      // formData.append('phoneNumber', this.attender.phoneNumber);
+      // formData.append('country', this.attender.country);
+      // formData.append('paymentProof', this.attender.paymentProof);
+
+      const data = {
+        'firstName': this.attender.firstName,
+        'lastName': this.attender.lastName,
+        'email': this.attender.email,
+        'organisation': this.attender.organisation,
+        'jobTitle': this.attender.jobTitle,
+        'companyAddress': this.attender.companyAddress,
+        'phoneNumber': this.attender.phoneNumber,
+        'country': this.attender.country,
+      }
 
       try {
-        await axios.post(`/api/attender`, formData);
+        await axios.post(`/api/attender`, data);
         this.$Progress.finish();
-        this.$noty.success("success");
-        this.$router.push({ name: "Home" });
+        this.$router.push({ name: "ThankYou" });
       } catch (error) {
         this.$Progress.fail();
         console.log(error);
@@ -215,7 +230,6 @@ export default {
       try {
         const reponse = await axios.get("/api/country");
         this.$Progress.finish();
-        this.$noty.success("success");
         this.countries = reponse.data;
       } catch (error) {
         this.$Progress.fail();

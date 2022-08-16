@@ -7,6 +7,7 @@
           class="hero-carousel carousel slide carousel-fade"
           data-ride="carousel"
         >
+        <Header />
           <div class="carousel-inner" style=" ">
             <div class="carousel-item-1 carousel-item active"></div>
             <div class="carousel-item-2 carousel-item"></div>
@@ -99,6 +100,7 @@ import Schedule from "../components/Schedule.vue";
 import Venue from "../components/Venue.vue";
 import Sponsor from "../components/Sponsor.vue";
 import Ticket from "../components/Ticket.vue";
+import Header from '../components/Header.vue'
 export default {
   components: {
     About,
@@ -107,6 +109,7 @@ export default {
     Venue,
     Sponsor,
     Ticket,
+    Header
   },
 };
 </script>

@@ -114,7 +114,8 @@
         <h4 class="mb-3">YOU CAN PAY THROUGH:</h4>
         <ul class="offers-list list-unstyled d-inline-block mx-auto text-start">
           <li>
-            <span class="icon-holder me-2"><i class="fa fa-cc-visa"></i></span
+            <span class="icon-holder me-2"><i class="fas fa-chevron-right me-2" style="color: #00008b"></i
+                ></span
             >VISA card
             <a href="https://kiac.org.rw/pop.php"
               >https://kiac.org.rw/pop.php</a
@@ -124,25 +125,37 @@
           <h5 class="mb-3">Bank and Bank Account:</h5>
           <li>
             <span class="icon-holder me-2"
-              ><i class="fas fa-people-carry"></i></span
+              ><i class="fas fa-chevron-right me-2" style="color: #00008b"></i
+                ></span
             ><b>I&M Bank Rwanda Ltd 25042751002 (US Dollar)</b> for
             <b>Kigali International Arbitration Centre (KIAC)</b>
           </li>
           <li>
-            <span class="icon-holder me-2"><i class="fas fa-utensils"></i></span
+            <span class="icon-holder me-2"><i class="fas fa-chevron-right me-2" style="color: #00008b"></i
+                ></span
             >Swift Code: <b>IMRWRWRW</b>
           </li>
           <li>
             <span class="icon-holder me-2"
-              ><i class="fas fa-utensils"></i
-            ></span>
+              ><i class="fas fa-chevron-right me-2" style="color: #00008b"></i
+                ></span>
             Correspondent Bank:
             <b
               >ING BELGIUM, Swift Code: BBRUBEBB or CITIBANK NY SWIFT code:
               CITIUS33</b
             >
           </li>
-          <li>Travel and hotel expenses are not included.</li>
+          <br>
+          <h6 class="mb-3">For participants located in Rwanda, payment can be made in Rwandan Francs on the
+Bank details below: </h6>
+<li>
+            <span class="icon-holder me-2"
+              ><i class="fas fa-chevron-right me-2" style="color: #00008b"></i
+                ></span
+            ><b>Bank and Bank Account: I&M Bank Rwanda Ltd, 25042751001 (FRW)</b> <br>
+            <p style="margin-left:50px"> Beneficiary:
+            <b>Kigali International Arbitration Centre (KIAC);</b></p>
+          </li>
         </ul>
       </div>
     </div>

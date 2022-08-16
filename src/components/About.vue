@@ -6,18 +6,21 @@
       </h3>
       <div class="section-intro single-col-max mx-auto mb-4">
         <p>
-          The Kigali International Arbitration Centre (KIAC) is the premier and sole arbitration
-          institution in Rwanda that was created by an Act of Parliament in 2010 (Law N°51/2010
-          of 10/01/2010 Establishing the Kigali International Arbitration Centre and determining its
-          organization, functioning and competence). The Centre was officially launched in May
-          2012 as an autonomous and non-profit making institution.
+          The Kigali International Arbitration Centre (KIAC) is the premier and
+          sole arbitration institution in Rwanda that was created by an Act of
+          Parliament in 2010 (Law N°51/2010 of 10/01/2010 Establishing the
+          Kigali International Arbitration Centre and determining its
+          organization, functioning and competence). The Centre was officially
+          launched in May 2012 as an autonomous and non-profit making
+          institution.
         </p>
         <p>
-          The creation of KIAC is an initiative of the Rwanda Private Sector to provide institutional
-          support to commercial dispute resolution proceedings in the region and beyond. KIAC’s
-          mandate is to help economic operators to resolve their disputes amicably and promote
-          the use of Alternative Dispute Resolution (ADR) as an integral part of good business
-          practice.
+          The creation of KIAC is an initiative of the Rwanda Private Sector to
+          provide institutional support to commercial dispute resolution
+          proceedings in the region and beyond. KIAC’s mandate is to help
+          economic operators to resolve their disputes amicably and promote the
+          use of Alternative Dispute Resolution (ADR) as an integral part of
+          good business practice.
         </p>
       </div>
     </div>
@@ -46,8 +49,10 @@
       </div>
       <div class="benefits-list text-center mb-3">
         <h4 class="text-center mb-4">WHO SHOULD ATTEND?</h4>
-        <p>Arbitration & ADR practitioners, Government Representatives, Judiciary, Private Sector,
-          legal practitioners, academia; etc…</p>
+        <p>
+          Arbitration & ADR practitioners, Government Representatives,
+          Judiciary, Private Sector, legal practitioners, academia; etc…
+        </p>
       </div>
       <div class="benefits-list text-center mb-3">
         <h4 class="text-center mb-4">Topics include:</h4>
@@ -62,19 +67,37 @@
           </li>
           <li>
             <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            The Revised 2020 IBA Rules of Evidence in international arbitration and its Commentary.
+            The Revised 2020 IBA Rules of Evidence in international arbitration
+            and its Commentary.
           </li>
           <li>
             <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
             The virtual hearing Protocols: What Practitioners need to know.
           </li>
           <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i
-            >Analysis of what need to be amended in the Rwandan arbitration act 2008.
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            Past, Present and Future of Kigali International Arbitration Centre
           </li>
           <li>
             <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            The Dispute Resolution options under Africa Continental Free Trade Agreement (AFCTA).
+            The Dispute Resolution options under Africa Continental Free Trade
+            Agreement (AFCTA).
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            Presenting damages in construction arbitration
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            Valuing energy in arbitration disputes
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            Enforcing an arbitral award set aside at the seat
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            The 2022 revised ICSID Rules and Regulations
           </li>
         </ul>
       </div>
