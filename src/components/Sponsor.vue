@@ -49,7 +49,7 @@
         </div>
         <!--//row-->
         <div class="sponsors-cta text-center pt-5">
-          <router-link to="/become-sponsor" class="btn-primary btn btn-lg"
+          <router-link to="/sponsor" class="btn-primary btn btn-lg"
             >Become A Sponsor</router-link
           >
         </div>
@@ -58,7 +58,7 @@
     </section>
 
     <!-- Modal Speaker -->
-    <div
+    <!-- <div
       class="modal modal-speaker modal-speaker-1"
       id="modal-speaker-1"
       tabindex="-1"
@@ -113,11 +113,8 @@
                       <a href="#"><i class="fab fa-github fa-fw"></i></a>
                     </li>
                   </ul>
-                  <!--//social-list-->
                 </div>
-                <!--//col-->
               </div>
-              <!--//row-->
             </div>
             <div class="desc p-4 p-lg-5">
               <p>
@@ -140,12 +137,8 @@
               </p>
             </div>
           </div>
-          <!--//modal-body-->
         </div>
-        <!--//modal-content-->
       </div>
-      <!--//modal-dialog-->
-    </div>
-    <!--//modal-->
+    </div> -->
   </div>
 </template>

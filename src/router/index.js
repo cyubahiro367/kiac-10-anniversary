@@ -5,6 +5,7 @@ import Register from '../views/Register.vue'
 import Hotels from '../views/Hotels.vue'
 import BecomeSponsor from '../views/SponsorRegistration.vue'
 import ThankYou from '../views/ThankPage.vue'
+import Sponsor from '../views/Sponsor.vue'
 
 Vue.use(VueRouter)
 
@@ -33,11 +34,16 @@ const routes = [
     path: '/thank-you',
     name: 'ThankYou',
     component: ThankYou
+  },
+  {
+    path: '/sponsor',
+    name: 'Sponsor',
+    component: Sponsor
   }
 ]
 
 const router = new VueRouter({
-  mode: 'history',
+  mode: 'hash',
   base: process.env.BASE_URL,
   routes
 })
