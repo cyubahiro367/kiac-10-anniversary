@@ -25,11 +25,11 @@
           <thead>
             <tr style="background-color: #00008b; color: white">
               <th>BENEFITS</th>
-              <th>PLATINUM - $10,000</th>
-              <th>GOLD - $7,500</th>
-              <th>SILVER - $4,000</th>
-              <th>RUBY - $2,500</th>
-              <th>BRONZE - $1,500</th>
+              <th>PLATINUM  $10,000</th>
+              <th>GOLD  $7,500</th>
+              <th>SILVER  $4,000</th>
+              <th>RUBY  $2,500</th>
+              <th>BRONZE  $1,500</th>
             </tr>
           </thead>
           <tbody>
