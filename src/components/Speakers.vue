@@ -18,9 +18,9 @@
         />
       </div>
       <div class="sponsors-cta text-center pt-5">
-          <router-link to="/speaker" class="btn-primary btn btn-lg"
-            >See More Speakers</router-link
-          >
+        <router-link to="/speaker" class="btn-primary btn btn-lg"
+          >See More Speakers</router-link
+        >
       </div>
     </div>
   </section>
@@ -44,7 +44,7 @@ export default {
         {
           image: "assets/images/speakers/speaker-2.jpg",
           name: "Prof. Emilia Onyema",
-          role:"SOAS-University of London",
+          role: "SOAS-University of London",
           location: "(SOAS/UK)",
         },
         {
@@ -56,9 +56,9 @@ export default {
         {
           image: "assets/images/speakers/speaker-4.jpg",
           name: "Mr. Thomas Kendra",
-          role:'Partner, Hogan Lovells',
+          role: "Partner, Hogan Lovells",
           location: "(paris-France)",
-        }
+        },
       ],
     };
   },

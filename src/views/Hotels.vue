@@ -2,40 +2,40 @@
   <div>
     <ComponentHeader />
     <section
-    id="speakers-section"
-    class="speakers-section section"
-    style="margin-top: 100px"
-  >
-    <div class="container">
-      <h3 class="section-heading text-center mb-3">
-        HOTELS & APARTMENTS IN KIGALI
-      </h3>
-      <div class="row">
-        <Hotel
-          v-for="(speaker, key) in speakers"
-          :key="key"
-          :image="speaker.image"
-          :name="speaker.name"
-          :contact="speaker.contact"
-          :site="speaker.site"
-          :location="speaker.location"
-          :distanceA="speaker.distanceA"
-          :distanceB="speaker.distanceB"
-          :link="speaker.link"
-        />
+      id="speakers-section"
+      class="speakers-section section"
+      style="margin-top: 100px"
+    >
+      <div class="container">
+        <h3 class="section-heading text-center mb-3">
+          HOTELS & APARTMENTS IN KIGALI
+        </h3>
+        <div class="row">
+          <Hotel
+            v-for="(speaker, key) in speakers"
+            :key="key"
+            :image="speaker.image"
+            :name="speaker.name"
+            :contact="speaker.contact"
+            :site="speaker.site"
+            :location="speaker.location"
+            :distanceA="speaker.distanceA"
+            :distanceB="speaker.distanceB"
+            :link="speaker.link"
+          />
+        </div>
       </div>
-    </div>
-  </section>
+    </section>
   </div>
 </template>
 
 <script>
 import Hotel from "../components/items/Hotel.vue";
-import ComponentHeader from '../components/ComponentHeader.vue'
+import ComponentHeader from "../components/ComponentHeader.vue";
 export default {
   components: {
     Hotel,
-    ComponentHeader
+    ComponentHeader,
   },
   data() {
     return {

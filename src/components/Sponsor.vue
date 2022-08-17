@@ -2,9 +2,7 @@
   <div>
     <section id="sponsors-section" class="sponsors-section section">
       <div class="container">
-        <h3 class="section-heading text-center mb-3">
-          STRATEGIC PARTNERS
-        </h3>
+        <h3 class="section-heading text-center mb-3">STRATEGIC PARTNERS</h3>
         <div class="section-intro text-center single-col-max mx-auto mb-5">
           <p>
             The event will provide a golden marketing opportunity to showcase

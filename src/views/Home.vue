@@ -7,8 +7,8 @@
           class="hero-carousel carousel slide carousel-fade"
           data-ride="carousel"
         >
-        <Header />
-          <div class="carousel-inner" style=" ">
+          <Header />
+          <div class="carousel-inner" style="">
             <div class="carousel-item-1 carousel-item active"></div>
             <div class="carousel-item-2 carousel-item"></div>
             <div class="carousel-item-3 carousel-item"></div>
@@ -30,11 +30,11 @@
             </div>
             <div class="hero-cta">
               <router-link
-                  to="/register"
-                  class="btn btn-secondary"
-                  style="background-color: #ff8c00"
-                  >Register</router-link
-                >
+                to="/register"
+                class="btn btn-secondary"
+                style="background-color: #ff8c00"
+                >Register</router-link
+              >
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@ import Schedule from "../components/Schedule.vue";
 import Venue from "../components/Venue.vue";
 import Sponsor from "../components/Sponsor.vue";
 import Ticket from "../components/Ticket.vue";
-import Header from '../components/Header.vue'
+import Header from "../components/Header.vue";
 export default {
   components: {
     About,
@@ -109,7 +109,7 @@ export default {
     Venue,
     Sponsor,
     Ticket,
-    Header
+    Header,
   },
 };
 </script>

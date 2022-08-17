@@ -163,11 +163,11 @@
 
 <script>
 import axios from "axios";
-import ComponentHeader from '../components/ComponentHeader.vue'
+import ComponentHeader from "../components/ComponentHeader.vue";
 
 export default {
-  components:{
-    ComponentHeader
+  components: {
+    ComponentHeader,
   },
   data() {
     return {
@@ -200,15 +200,15 @@ export default {
       // formData.append('paymentProof', this.attender.paymentProof);
 
       const data = {
-        'firstName': this.attender.firstName,
-        'lastName': this.attender.lastName,
-        'email': this.attender.email,
-        'organisation': this.attender.organisation,
-        'jobTitle': this.attender.jobTitle,
-        'companyAddress': this.attender.companyAddress,
-        'phoneNumber': this.attender.phoneNumber,
-        'country': this.attender.country,
-      }
+        firstName: this.attender.firstName,
+        lastName: this.attender.lastName,
+        email: this.attender.email,
+        organisation: this.attender.organisation,
+        jobTitle: this.attender.jobTitle,
+        companyAddress: this.attender.companyAddress,
+        phoneNumber: this.attender.phoneNumber,
+        country: this.attender.country,
+      };
 
       try {
         await axios.post(`/api/attender`, data);

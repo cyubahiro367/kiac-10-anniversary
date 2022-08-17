@@ -114,7 +114,10 @@
             </div>
           </div>
           <br />
-          <label>Do you have a proof of payment? if you have already made a payment you can upload it here <span style="color: red">*</span></label>
+          <label
+            >Do you have a proof of payment? if you have already made a payment
+            you can upload it here <span style="color: red">*</span></label
+          >
           <input
             name="attach proof of payment"
             type="file"

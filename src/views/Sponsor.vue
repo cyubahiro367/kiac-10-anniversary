@@ -314,8 +314,8 @@ export default {
 };
 </script>
 <style scoped>
-h5{
-    font-size: 20px;
-    margin-top: 30px;
+h5 {
+  font-size: 20px;
+  margin-top: 30px;
 }
 </style>
