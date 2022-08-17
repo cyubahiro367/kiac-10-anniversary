@@ -2,7 +2,7 @@
   <header
         id="header"
         class="header fixed-top"
-        style="background-color: white"
+        style="background-color: #00008b"
       >
         <div class="branding">
           <div class="container-fluid">

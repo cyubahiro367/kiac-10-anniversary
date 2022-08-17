@@ -17,9 +17,9 @@
         this event through sponsorship. Whereby all information about wholly
         sponsorship packages are illustrated in below table.
       </p>
-      <h3 class="section-heading text-center mb-3">
+      <h5 class="section-heading text-left mb-3">
         The sponsorship Packages are as follows:
-      </h3>
+      </h5>
       <div class="table-responsive">
         <table class="table table-bordered table-v2 table-striped">
           <thead>
@@ -186,7 +186,7 @@
           </tbody>
         </table>
       </div>
-      <h5 class="section-heading text-center mb-3">IN KIND SPONSORSHIP</h5>
+      <h5 class="section-heading text-left mb-3">IN KIND SPONSORSHIP</h5>
       <div class="table-responsive">
         <table class="table table-bordered table-v2 table-striped">
           <thead>
@@ -283,6 +283,36 @@
           </tbody>
         </table>
       </div>
+      <h5 class="section-heading text-left mb-3">DATA PROTECTION:</h5>
+      <p>
+        The details you provide on this form will be events. used for
+        registration purposes. They will be your area of activity through
+        publications and stored in KIAC’s databases for the sole use of KIAC
+        (the Kigali International Arbitration Please indicate if you wish
+        receive such Centre) The details you to provide may information: be used
+        by KIAC to keep you informed of developments in your area of activity
+        through publications and events.
+      </p>
+
+      <h5 class="section-heading text-left mb-3">DISCLAIMER:</h5>
+      <p>
+        The pictures and footage taken by KIAC staff or photographer at this
+        event may be used, without further notification, at a later date with in
+        printing and online materials such as brochures, marketing tools, social
+        media and the KIAC website. Registration implies that you accept this
+        disclaimer.
+      </p>
+
+      <h5 class="section-heading text-left mb-3">
+        TOURISM ATTRACTIONS IN RWANDA:
+      </h5>
+      <p>
+        Rwanda has got various tourism attractions, that interest thousands of
+        tourists, to come and explore the beauty of the country namely,
+        beautiful lakes, breathtaking national parks, canopy walkways,
+        Ethnographic museums, and other refreshing places that you can explore
+        though <a href="https://www.visitrwanda.com/tourism/">https://www.visitrwanda.com/tourism/</a>
+      </p>
     </div>
   </div>
 </template>
@@ -294,3 +324,9 @@ export default {
   },
 };
 </script>
+<style scoped>
+h5{
+    font-size: 20px;
+    margin-top: 30px;
+}
+</style>
