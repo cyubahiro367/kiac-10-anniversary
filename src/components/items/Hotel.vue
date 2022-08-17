@@ -4,7 +4,7 @@
       <a
         href="#modal-speaker-1"
         data-bs-toggle="modal"
-        data-bs-target="#modal-speaker-1"
+        :data-bs-target="dataTarget"
         ><img :src="image" class="card-img-top rounded-0" alt=""
       /></a>
       <div class="card-body">

@@ -2,7 +2,9 @@
   <div>
     <section id="sponsors-section" class="sponsors-section section">
       <div class="container">
-        <h3 class="section-heading text-center mb-3">STRATEGIC PARTNERS</h3>
+        <h3 class="section-heading text-center mb-3">
+          STRATEGIC PARTNERS
+        </h3>
         <div class="section-intro text-center single-col-max mx-auto mb-5">
           <p>
             The event will provide a golden marketing opportunity to showcase
@@ -64,7 +66,7 @@
       <!--//container-->
     </section>
 
-    <!-- Modal Speaker -->
+    <!-- Modal Main Hotels -->
     <!-- <div
       class="modal modal-speaker modal-speaker-1"
       id="modal-speaker-1"

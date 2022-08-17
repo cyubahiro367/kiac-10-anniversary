@@ -98,7 +98,7 @@
                 >https://www.visitrwanda.com/tourism/</a
               >
             </p>
-            <router-link to="/hotels" class="btn btn-ghost"
+            <router-link to="/hotel" class="btn btn-ghost"
               >Search Hotels</router-link
             >
           </div>

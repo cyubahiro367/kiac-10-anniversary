@@ -171,6 +171,31 @@
             you accept this disclaimer.
           </p>
         </div>
+
+        <h5 class="section-heading text-left mb-3">CANCELLATION POLICY</h5>
+        <div class="section-intro single-col-max mx-auto mb-4">
+          <p>
+            50% of the registration fee will be refunded if notice of
+            cancellation is received in writing before 15th September 2022.
+            Cancellations after this date are not refundable.
+          </p>
+          <p>
+            Subject to agreement from KIAC prior to the event, the registration
+            may be transferred to another person from the same company or
+            organization at no extra charge. Updated registration information
+            will be required.
+          </p>
+          <p>
+            Please note that KIAC Services reserves the right to cancel this
+            event or to make minor alterations to the content and timing of the
+            Program or to the identity of the speakers. In the unlikely event of
+            cancellation, delegates will be offered a full refund.
+          </p>
+          <p>
+            KIAC Services will not, however, be held responsible for any related
+            expense incurred by the participant.
+          </p>
+        </div>
       </div>
     </div>
   </section>

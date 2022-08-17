@@ -7,6 +7,7 @@ import BecomeSponsor from '../views/SponsorRegistration.vue'
 import ThankYou from '../views/ThankPage.vue'
 import Sponsor from '../views/Sponsor.vue'
 import Speaker from '../views/Speakers.vue'
+import Hotel from '../views/MainHotels.vue'
 
 Vue.use(VueRouter)
 
@@ -25,6 +26,11 @@ const routes = [
     path: '/hotels',
     name: 'Hotels',
     component: Hotels
+  },
+  {
+    path: '/hotel',
+    name: 'Hotel',
+    component: Hotel
   },
   {
     path: '/become-sponsor',
@@ -49,7 +55,7 @@ const routes = [
 ]
 
 const router = new VueRouter({
-  mode: 'hash',
+  mode: 'history',
   base: process.env.BASE_URL,
   routes
 })
