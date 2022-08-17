@@ -17,6 +17,11 @@
           :location="speaker.location"
         />
       </div>
+      <div class="sponsors-cta text-center pt-5">
+          <router-link to="/speaker" class="btn-primary btn btn-lg"
+            >See More Speakers</router-link
+          >
+      </div>
     </div>
   </section>
 </template>
@@ -53,25 +58,7 @@ export default {
           name: "Mr. Thomas Kendra",
           role:'Partner, Hogan Lovells',
           location: "(paris-France)",
-        },
-        {
-          image: "assets/images/speakers/speaker-5.jpg",
-          name: "Mr. Babatunde Ogunseitan",
-          role:'International Arbitrator',
-          location: "(UK)",
-        },
-        {
-          image: "assets/images/speakers/speaker-6.jpg",
-          name: "Mr. Thierry Ngoga",
-          role:'Partner, Legal Line Partners',
-          location: "(Rwanda)",
-        },
-        {
-          image: "assets/images/speakers/speaker-7.jpg",
-          name: "Mr. Victor Mugabe",
-          role:"Secretary General, KIAC",
-          location: "(Rwanda)",
-        },
+        }
       ],
     };
   },

@@ -75,6 +75,29 @@
               libero eros, tristique ac orci nec, hendrerit dictum lacus. Aenean
               iaculis massa felis, eget venenatis turpis lacinia sit amet.
             </p>
+
+            <h4 class="text-white mb-4 mt-3 mt-lg-5">VISA TO RWANDA</h4>
+            <p>
+              Rwanda has an open visa policy where all nationalities get visas
+              on arrival. Citizens from the African Union Member States, the
+              Commonwealth, La Francophonie enjoy visa fees waiver for a stay of
+              30 days. The Visa fees are waived for EAC Citizens for a stay of 6
+              months. The rest of the visitors pay $50 visa fees upon arrival.
+            </p>
+
+            <h4 class="text-white mb-4 mt-3 mt-lg-5">
+              TOURISM ATTRACTIONS IN RWANDA
+            </h4>
+            <p>
+              Rwanda has got various tourism attractions, that interest
+              thousands of tourists, to come and explore the beauty of the
+              country namely, beautiful lakes, breathtaking national parks,
+              canopy walkways, Ethnographic museums, and other refreshing places
+              that you can explore though
+              <a href="https://www.visitrwanda.com/tourism/"
+                >https://www.visitrwanda.com/tourism/</a
+              >
+            </p>
             <router-link to="/hotels" class="btn btn-ghost"
               >Search Hotels</router-link
             >
@@ -117,6 +140,13 @@
               <img
                 class="shadow"
                 src="assets/images/venue/16256-116537-f65646094_3xl.webp"
+                alt=""
+              />
+            </div>
+            <div class="figure figure-2">
+              <img
+                class="shadow"
+                src="assets/images/venue/radison.jpg"
                 alt=""
               />
             </div>

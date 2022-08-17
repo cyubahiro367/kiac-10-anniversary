@@ -100,22 +100,30 @@
           </li>
           <li>Travel and hotel expenses are not included.</li>
         </ul>
-        <h6>Accompanying Person Fee: $100 or FRW 100,000</h6>
-        <pre>
-          Accompanying person fees covers the access to the Gala dinner only on Thursday 
-          29th September 2022 The accompanying person fee does not
-          include or allow access to working sessions and their related
-          logistics.
-        </pre>
-        <p>
+        <h5 class="section-heading text-left mb-3">
+          Accompanying Person Fee: $100 or FRW 100,000
+        </h5>
+        <div class="section-intro single-col-max mx-auto mb-4">
+          <p>
+            Accompanying person fees covers the access to the Gala dinner only
+            on Thursday 29th September 2022 The accompanying person fee does not
+            include or allow access to working sessions and their related
+            logistics.
+          </p>
+          <p>
           Registration and Payment for the conference will close on
           <b>20th September 2022</b>
         </p>
-        <h4 class="mb-3">YOU CAN PAY THROUGH:</h4>
+        </div>
+        
+        <h4 style="margin-top:50px" class="mb-3">YOU CAN PAY THROUGH:</h4>
         <ul class="offers-list list-unstyled d-inline-block mx-auto text-start">
           <li>
-            <span class="icon-holder me-2"><i class="fas fa-chevron-right me-2" style="color: #00008b"></i
-                ></span
+            <span class="icon-holder me-2"
+              ><i
+                class="fas fa-chevron-right me-2"
+                style="color: #00008b"
+              ></i></span
             >VISA card
             <a href="https://kiac.org.rw/pop.php"
               >https://kiac.org.rw/pop.php</a
@@ -125,39 +133,71 @@
           <h5 class="mb-3">Bank and Bank Account:</h5>
           <li>
             <span class="icon-holder me-2"
-              ><i class="fas fa-chevron-right me-2" style="color: #00008b"></i
-                ></span
+              ><i
+                class="fas fa-chevron-right me-2"
+                style="color: #00008b"
+              ></i></span
             ><b>I&M Bank Rwanda Ltd 25042751002 (US Dollar)</b> for
             <b>Kigali International Arbitration Centre (KIAC)</b>
           </li>
           <li>
-            <span class="icon-holder me-2"><i class="fas fa-chevron-right me-2" style="color: #00008b"></i
-                ></span
+            <span class="icon-holder me-2"
+              ><i
+                class="fas fa-chevron-right me-2"
+                style="color: #00008b"
+              ></i></span
             >Swift Code: <b>IMRWRWRW</b>
           </li>
           <li>
             <span class="icon-holder me-2"
               ><i class="fas fa-chevron-right me-2" style="color: #00008b"></i
-                ></span>
+            ></span>
             Correspondent Bank:
             <b
               >ING BELGIUM, Swift Code: BBRUBEBB or CITIBANK NY SWIFT code:
               CITIUS33</b
             >
           </li>
-          <br>
-          <h6 class="mb-3">For participants located in Rwanda, payment can be made in Rwandan Francs on the
-Bank details below: </h6>
-<li>
+          <br />
+          <h6 class="mb-3">
+            For participants located in Rwanda, payment can be made in Rwandan
+            Francs on the Bank details below:
+          </h6>
+          <li>
             <span class="icon-holder me-2"
-              ><i class="fas fa-chevron-right me-2" style="color: #00008b"></i
-                ></span
-            ><b>Bank and Bank Account: I&M Bank Rwanda Ltd, 25042751001 (FRW)</b> <br>
-            <p style="margin-left:50px"> Beneficiary:
-            <b>Kigali International Arbitration Centre (KIAC);</b></p>
+              ><i
+                class="fas fa-chevron-right me-2"
+                style="color: #00008b"
+              ></i></span
+            ><b
+              >Bank and Bank Account: I&M Bank Rwanda Ltd, 25042751001 (FRW)</b
+            >
+            <br />
+            <p style="margin-left: 50px">
+              Beneficiary:
+              <b>Kigali International Arbitration Centre (KIAC);</b>
+            </p>
           </li>
         </ul>
+
+        <h5 class="section-heading text-left mb-3">DISCLAIMER</h5>
+        <div class="section-intro single-col-max mx-auto mb-4">
+          <p>
+            The pictures and footage taken by KIAC staff or photographer at this
+            event may be used, without further notification, at a later date
+            with in printing and online materials such as brochures, marketing
+            tools, social media and the KIAC website. Registration implies that
+            you accept this disclaimer.
+          </p>
+        </div>
       </div>
     </div>
   </section>
 </template>
+
+<style scoped>
+h5 {
+  font-size: 20px;
+  margin-top: 30px;
+}
+</style>

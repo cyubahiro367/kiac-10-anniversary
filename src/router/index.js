@@ -6,6 +6,7 @@ import Hotels from '../views/Hotels.vue'
 import BecomeSponsor from '../views/SponsorRegistration.vue'
 import ThankYou from '../views/ThankPage.vue'
 import Sponsor from '../views/Sponsor.vue'
+import Speaker from '../views/Speakers.vue'
 
 Vue.use(VueRouter)
 
@@ -39,6 +40,11 @@ const routes = [
     path: '/sponsor',
     name: 'Sponsor',
     component: Sponsor
+  },
+  {
+    path: '/speaker',
+    name: 'Speaker',
+    component: Speaker
   }
 ]
 

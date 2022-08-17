@@ -302,17 +302,6 @@
         media and the KIAC website. Registration implies that you accept this
         disclaimer.
       </p>
-
-      <h5 class="section-heading text-left mb-3">
-        TOURISM ATTRACTIONS IN RWANDA:
-      </h5>
-      <p>
-        Rwanda has got various tourism attractions, that interest thousands of
-        tourists, to come and explore the beauty of the country namely,
-        beautiful lakes, breathtaking national parks, canopy walkways,
-        Ethnographic museums, and other refreshing places that you can explore
-        though <a href="https://www.visitrwanda.com/tourism/">https://www.visitrwanda.com/tourism/</a>
-      </p>
     </div>
   </div>
 </template>

@@ -46,6 +46,15 @@
           <div class="logo-item col-6 col-md-4 col-lg-3">
             <img src="assets/images/logos/8.png" alt="" />
           </div>
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/9.jpg" alt="" />
+          </div>
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/10.jpg" alt="" />
+          </div>
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/11.jpg" alt="" />
+          </div>
         </div>
         <!--//row-->
         <div class="sponsors-cta text-center pt-5">
