@@ -94,7 +94,7 @@
               country namely, beautiful lakes, breathtaking national parks,
               canopy walkways, Ethnographic museums, and other refreshing places
               that you can explore though
-              <a href="https://www.visitrwanda.com/tourism/"
+              <a style="color:#ff8c00;" href="https://www.visitrwanda.com/tourism/"
                 >https://www.visitrwanda.com/tourism/</a
               >
             </p>
