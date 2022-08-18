@@ -9,8 +9,6 @@ import Multiselect from "vue-multiselect";
 
 Vue.component("multiselect", Multiselect);
 
-Vue.use(VueNoty)
-
 axios.defaults.baseURL = process.env.VUE_APP_API_URL
 
 axios.defaults.headers.post['Content-Type'] = 'application/json';
@@ -29,9 +27,13 @@ const options = {
   inverse: false
 }
 
-Vue.use(VueProgressBar, options)
+
 
 Vue.config.productionTip = false
+
+Vue.use(VueNoty)
+
+Vue.use(VueProgressBar, options)
 
 new Vue({
   router,

@@ -163,6 +163,7 @@
 
 <script>
 import axios from "axios";
+import 'vuejs-noty/dist/vuejs-noty.css'
 import ComponentHeader from "../components/ComponentHeader.vue";
 
 export default {
@@ -188,16 +189,6 @@ export default {
   methods: {
     async createAttender() {
       this.$Progress.start();
-      // var formData = new FormData();
-      // formData.append('firstName', this.attender.firstName);
-      // formData.append('lastName', this.attender.lastName);
-      // formData.append('email', this.attender.email);
-      // formData.append('organisation', this.attender.organisation);
-      // formData.append('jobTitle', this.attender.jobTitle);
-      // formData.append('companyAddress', this.attender.companyAddress);
-      // formData.append('phoneNumber', this.attender.phoneNumber);
-      // formData.append('country', this.attender.country);
-      // formData.append('paymentProof', this.attender.paymentProof);
 
       const data = {
         firstName: this.attender.firstName,
@@ -213,9 +204,11 @@ export default {
       try {
         await axios.post(`/api/attender`, data);
         this.$Progress.finish();
+        this.$noty.success("you have been registered to attend kiac 100 anniversary");
         this.$router.push({ name: "ThankYou" });
       } catch (error) {
         this.$Progress.fail();
+        this.$noty.error("failed contact support");
         console.log(error);
       }
     },

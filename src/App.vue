@@ -4,6 +4,7 @@
       <router-view />
       <Footer />
     </div>
+    <vue-progress-bar></vue-progress-bar>
   </div>
 </template>
 
