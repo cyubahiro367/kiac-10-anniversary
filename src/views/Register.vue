@@ -226,6 +226,7 @@ export default {
         this.countries = reponse.data;
       } catch (error) {
         this.$Progress.fail();
+        this.$noty.error("not found countries contact support");
         console.log(error);
       }
     },
