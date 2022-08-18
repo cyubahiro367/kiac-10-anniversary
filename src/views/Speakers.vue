@@ -187,7 +187,13 @@ export default {
           image: "assets/images/speakers/speaker-19.jpg",
           name: "Mr. Abayomi Okubote",
           role: "Executive Director-Africa Arbitration Academy",
-          location: "((Nigeria))",
+          location: "(Nigeria)",
+        },
+        {
+          image: "assets/images/speakers/speaker-19.jpg",
+          name: "Mr. Anish Wadia",
+          role: "International Arbitrator",
+          location: "(India)",
         },
       ],
     };
