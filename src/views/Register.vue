@@ -408,7 +408,8 @@ export default {
       this.$Progress.start();
 
       const data = {
-        firstName: this.attender.title + " " + this.attender.firstName,
+        cars: this.attender.title,
+        firstName: this.attender.firstName,
         lastName: this.attender.lastName,
         email: this.attender.email,
         organisation: this.attender.organisation,
@@ -419,7 +420,7 @@ export default {
       };
 
       try {
-        await axios.post(`/api/attender`, data);
+        await axios.post(`/api.php`, data);
         this.$noty.success(
           "you have been registered to attend kiac 100 anniversary"
         );
@@ -427,8 +428,8 @@ export default {
         this.$Progress.finish();
       } catch (error) {
         this.$Progress.fail();
-        this.$noty.error("failed contact support");
-        console.log(error);
+        this.$noty.error(error.message);
+        console.log(error.message);
       }
     },
   },

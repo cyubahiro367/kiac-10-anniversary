@@ -11,8 +11,6 @@ Vue.component("multiselect", Multiselect);
 
 axios.defaults.baseURL = process.env.VUE_APP_API_URL
 
-axios.defaults.headers.post['Content-Type'] = 'application/json';
-
 const options = {
   color: '#ff8c00',
   failedColor: 'red',
