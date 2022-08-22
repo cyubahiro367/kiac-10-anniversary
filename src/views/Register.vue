@@ -118,7 +118,7 @@
 
             <div class="col-md-6 col-sm-12 col-xs-12">
               <label>COUNTRY <span style="color: red">*</span></label>
-              <select v-model="attender.country" class="form-control">
+              <select v-model="attender.country" name="country" class="form-control">
                 <option value="Afghanistan" >Afghanistan</option>
                 <option value="Albania" >Albania</option>
                 <option value="Algeria" >Algeria</option>
@@ -407,20 +407,31 @@ export default {
     async createAttender() {
       this.$Progress.start();
 
-      const data = {
-        cars: this.attender.title,
-        firstName: this.attender.firstName,
-        lastName: this.attender.lastName,
-        email: this.attender.email,
-        organisation: this.attender.organisation,
-        jobTitle: this.attender.jobTitle,
-        companyAddress: this.attender.companyAddress,
-        phoneNumber: this.attender.phoneNumber,
-        country: this.attender.country,
-      };
+      // const data = {
+      //   cars: this.attender.title,
+      //   firstName: this.attender.firstName,
+      //   lastName: this.attender.lastName,
+      //   email: this.attender.email,
+      //   organisation: this.attender.organisation,
+      //   jobTitle: this.attender.jobTitle,
+      //   companyAddress: this.attender.companyAddress,
+      //   phoneNumber: this.attender.phoneNumber,
+      //   country: this.attender.country,
+      // };
+
+      var formData = new FormData;
+      formData.append("cars", this.attender.title);
+      formData.append("firstName", this.attender.firstName);
+      formData.append("lastName", this.attender.lastName);
+      formData.append("email", this.attender.email);
+      formData.append("organisation", this.attender.organisation);
+      formData.append("jobTitle", this.attender.jobTitle);
+      formData.append("companyAddress", this.attender.companyAddress);
+      formData.append("phoneNumber", this.attender.phoneNumber);
+      formData.append("country", this.attender.country);
 
       try {
-        await axios.post(`/api.php`, data);
+        await axios.post(`/api.php`, formData);
         this.$noty.success(
           "you have been registered to attend kiac 100 anniversary"
         );
