@@ -6,21 +6,24 @@
       </h3>
       <div class="section-intro single-col-max mx-auto mb-4">
         <p>
-          The Kigali International Arbitration Centre (KIAC) is the premier and
-          sole arbitration institution in Rwanda that was created by an Act of
-          Parliament in 2010 (Law N°51/2010 of 10/01/2010 Establishing the
-          Kigali International Arbitration Centre and determining its
-          organization, functioning and competence). The Centre was officially
-          launched in May 2012 as an autonomous and non-profit making
-          institution.
+          Rwanda continues to make considerable improvements to its business
+          environment and investment climate and being the first greenest
+          destination in Africa. Rwanda is the most reformed country in the
+          world and the second best destination for doing business in Africa
+          according to the World Bank's 'Ease of doing business report' (2020).
+          With such conducive business environment, commercial disputes are
+          inevitable.
         </p>
         <p>
-          The creation of KIAC is an initiative of the Rwanda Private Sector to
-          provide institutional support to commercial dispute resolution
-          proceedings in the region and beyond. KIAC’s mandate is to help
-          economic operators to resolve their disputes amicably and promote the
-          use of Alternative Dispute Resolution (ADR) as an integral part of
-          good business practice.
+          Kigali International Arbitration Centre (KIAC) was established in 2010
+          as an independent body to provide infrastructure for quality services
+          in arbitration and other ADR mechanisms. Launched officially in May
+          2012, KIAC started in April 2013 to administer cases under its
+          arbitration rules after continuous sensitization cam- paign in Rwanda
+          and abroad on the use of arbitration and KIAC standards Arbitration
+          clauses. The KIAC Arbitration Rules (2012) are a modern set of
+          arbitration rules, which provisions are consistent with interna-
+          tional best practices. Currently KIAC registered more than 200 cases.
         </p>
       </div>
     </div>
@@ -32,74 +35,20 @@
         <p>
           The year 2022 marks the 10th Anniversary of the Kigali International
           Arbitration Center (KIAC) This event is an opportunity to celebrate
-          KIAC's Arbitration cases out of which 40% are international cases with
+          KIAC’s Arbitration cases out of which 40% are international cases with
           parties from Burundi, China, Ethiopia, Egypt, France, India, Italy,
           Kenya, Korea, Nigeria, Pakistan, South Africa, South Korea, Singapore,
           Rwanda, Spain, Switzerland, Tanzania, Turkey, Uganda, USA, Zambia
         </p>
         <p>
           The Anniversary will be celebrated by a conference where the
-          international Arbitration community will gather in kigali to discuss
+          international Arbitration community will gather in Kigali to discuss
           the hot topics shaping the future of international Arbitration in one
-          of the major African Arbitral institutions. Funthermore, the event
+          of the major African Arbitral institutions. Furthermore, the event
           will be an opportunity to share the role of courts in support of
           Arbitration in Rwanda where none of KIAC Awards has never been set
           aside.
         </p>
-      </div>
-      <div class="benefits-list text-center mb-3">
-        <h4 class="text-center mb-4">WHO SHOULD ATTEND?</h4>
-        <p>
-          Arbitration & ADR practitioners, Government Representatives,
-          Judiciary, Private Sector, legal practitioners, academia; etc…
-        </p>
-      </div>
-      <div class="benefits-list text-center mb-3">
-        <h4 class="text-center mb-4">Topics include:</h4>
-        <ul class="list-unstyled text-start d-inline-block">
-          <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i
-            >Disclosure in International Arbitration: Current trends.
-          </li>
-          <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i
-            >Joinder and Multiparty Arbitration: Comparative perspectives.
-          </li>
-          <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            The Revised 2020 IBA Rules of Evidence in international arbitration
-            and its Commentary.
-          </li>
-          <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            The virtual hearing Protocols: What Practitioners need to know.
-          </li>
-          <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            Past, Present and Future of Kigali International Arbitration Centre
-          </li>
-          <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            The Dispute Resolution options under Africa Continental Free Trade
-            Agreement (AFCTA).
-          </li>
-          <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            Presenting damages in construction arbitration
-          </li>
-          <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            Valuing energy in arbitration disputes
-          </li>
-          <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            Enforcing an arbitral award set aside at the seat
-          </li>
-          <li>
-            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
-            The 2022 revised ICSID Rules and Regulations
-          </li>
-        </ul>
       </div>
       <div class="event-countdown text-center mb-3">
         <h4 class="countdown-intro mb-2 text-center mb-3">Event Starts In:</h4>
