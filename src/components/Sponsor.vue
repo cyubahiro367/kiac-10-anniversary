@@ -59,6 +59,9 @@
           <div class="logo-item col-6 col-md-4 col-lg-3">
             <img src="assets/images/logos/13.jpg" alt="" />
           </div>
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <img src="assets/images/logos/14.jpg" alt="" />
+          </div>
         </div>
         <!--//row-->
         <div class="sponsors-cta text-center pt-5">
