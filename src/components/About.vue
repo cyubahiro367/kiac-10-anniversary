@@ -50,6 +50,60 @@
           aside.
         </p>
       </div>
+      <div class="benefits-list text-center mb-3">
+        <h4 class="text-center mb-4">WHO SHOULD ATTEND?</h4>
+        <p>
+          Arbitration & ADR practitioners, Government Representatives,
+          Judiciary, Private Sector, legal practitioners, academia; etc…
+        </p>
+      </div>
+      <div class="benefits-list text-center mb-3">
+        <h4 class="text-center mb-4">Topics include:</h4>
+        <ul class="list-unstyled text-start d-inline-block">
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i
+            >Disclosure in International Arbitration: Current trends.
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i
+            >Joinder and Multiparty Arbitration: Comparative perspectives.
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            The Revised 2020 IBA Rules of Evidence in international arbitration
+            and its Commentary.
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            The virtual hearing Protocols: What Practitioners need to know.
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            Past, Present and Future of Kigali International Arbitration Centre
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            The Dispute Resolution options under Africa Continental Free Trade
+            Agreement (AFCTA).
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            Presenting damages in construction arbitration
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            Valuing energy in arbitration disputes
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            Enforcing an arbitral award set aside at the seat
+          </li>
+          <li>
+            <i class="fas fa-check-circle me-2" style="color: #00008b"></i>The
+            The 2022 revised ICSID Rules and Regulations
+          </li>
+        </ul>
+      </div>
       <div class="event-countdown text-center mb-3">
         <h4 class="countdown-intro mb-2 text-center mb-3">Event Starts In:</h4>
         <div id="countdown-box" class="countdown-box"></div>

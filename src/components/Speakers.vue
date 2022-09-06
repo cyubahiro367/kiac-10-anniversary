@@ -5,7 +5,7 @@
       <div class="section-intro text-center single-col-max mx-auto mb-5">
         Speakers will include eminent international arbitration practitioners &
         scholars from across the globe (for more details about speakers visit
-        our website www.kiac.org.rw). Some Confirmed speakers include:
+        our website <a href="https://www.kiac.org.rw"> www.kiac.org.rw</a> ). Some Confirmed speakers include:
       </div>
       <div class="row">
         <SpeakersCard
