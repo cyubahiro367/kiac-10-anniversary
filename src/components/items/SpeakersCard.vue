@@ -1733,7 +1733,9 @@
 
                 <div class="col text-center text-md-start mx-auto">
                   <h2 class="name mb-2">Mr. Abayomi Okubote</h2>
-                  <div class="meta">Executive Director-Africa Arbitration Academy</div>
+                  <div class="meta">
+                    Executive Director-Africa Arbitration Academy
+                  </div>
                 </div>
                 <!--//col-->
               </div>
@@ -1741,13 +1743,1539 @@
             </div>
             <div class="desc p-4 p-lg-5">
               <p>
-                Abayomi is a scholar of the International Bar Association and graduate scholar at Queen’s University, Canada. He has garnered almost 10 years’ experience in dispute resolution and has advised government agencies and multi-national corporations on several cutting-edge projects in Africa. Abayomi had his LLM in International Commercial Law from the University College London, United Kingdom and is currently a Doctoral Researcher at Queen’s University, Ontario, Canada. His research focuses on third party funding (TPF) in International Arbitration and is proposing a new framework for the regulation of TPF.
+                Abayomi is a scholar of the International Bar Association and
+                graduate scholar at Queen’s University, Canada. He has garnered
+                almost 10 years’ experience in dispute resolution and has
+                advised government agencies and multi-national corporations on
+                several cutting-edge projects in Africa. Abayomi had his LLM in
+                International Commercial Law from the University College London,
+                United Kingdom and is currently a Doctoral Researcher at Queen’s
+                University, Ontario, Canada. His research focuses on third party
+                funding (TPF) in International Arbitration and is proposing a
+                new framework for the regulation of TPF.
               </p>
               <p>
-                His research recently received the prestigious CIGI ILRP Doctoral Scholarship 2018. Abayomi is a counsel in the Government Business and Dispute Resolution Practices of Olaniwun Ajayi LP (a top tier commercial law firm in Nigeria) and has completed secondment programs at Baker & McKenzie LLP (London office) and 4-5 Gray’s Inn, London, United Kingdom. He has attended summer courses at the Harvard Negotiation Institute, United States and the International Chamber of Commerce in Paris. Driven by the passion for change in Africa, Abayomi founded the Association of Young Arbitrators (AYA) in 2015, and co-founded Africa Arbitration/Africa Arbitration Blog in 2017.
+                His research recently received the prestigious CIGI ILRP
+                Doctoral Scholarship 2018. Abayomi is a counsel in the
+                Government Business and Dispute Resolution Practices of Olaniwun
+                Ajayi LP (a top tier commercial law firm in Nigeria) and has
+                completed secondment programs at Baker & McKenzie LLP (London
+                office) and 4-5 Gray’s Inn, London, United Kingdom. He has
+                attended summer courses at the Harvard Negotiation Institute,
+                United States and the International Chamber of Commerce in
+                Paris. Driven by the passion for change in Africa, Abayomi
+                founded the Association of Young Arbitrators (AYA) in 2015, and
+                co-founded Africa Arbitration/Africa Arbitration Blog in 2017.
               </p>
               <p>
-                He is a member of the Chartered Institute of Arbitrators (Nigeria and United Kingdom), Young International Arbitration Group of the LCIA and a neutral on the panel of neutrals in the Abuja Multi-Door Court House, Federal Capital Territory, Nigeria. Abayomi has been appointed by Nigerian courts and has sat as an arbitrator in a number of arbitrations in Nigeria.
+                He is a member of the Chartered Institute of Arbitrators
+                (Nigeria and United Kingdom), Young International Arbitration
+                Group of the LCIA and a neutral on the panel of neutrals in the
+                Abuja Multi-Door Court House, Federal Capital Territory,
+                Nigeria. Abayomi has been appointed by Nigerian courts and has
+                sat as an arbitrator in a number of arbitrations in Nigeria.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-9"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mr. Moise Nkundabarashi
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a11.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mr. Moise Nkundabarashi</h2>
+                  <div class="meta">President-Rwanda Bar Association</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Adv. Moise NKUNDABARASHI is an Advocate of the High court of
+                Rwanda. He holds an LLB from the National University of Rwanda
+                and a post graduate diploma in legal practice from the Institute
+                of Legal Practice and development.
+              </p>
+              <p>
+                Right after his legal education, He was called to the Bar in
+                2010 after 4 years of practice, he made it to the Partnership at
+                Trust law chambers. Since 2014, he heads the Litigation and
+                Dispute resolution department practice at TLC. From 2014 to 2016
+                he served as a council member at the East Africa Law Society.
+                From 2015 He served as a council member the secretary of the
+                council of the Rwanda Bar Association. From November 2021 to
+                date he serves as the President of Rwanda Bar Association and
+                seats at Rwanda Judicial High council, National Public
+                Prosecution Authority high council and East Africa Law society
+                council. He is also the current president of Great Lakes Bar
+                (ABGL) a regional bar that brings together Burundi Bar
+                Association, Goma Bar Association and Bukavu Bar Association. He
+                is ranked by Chambers and Partners as a well-regarded litigator.
+                He is on record to be among the young President of the Bar in
+                the region.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-36"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mr. James Banda
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a12.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mr. James Banda</h2>
+                  <div class="meta">Chairperson- CIArb Zambia Branch</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                James Banda is the current Chairman of the Chartered Institute
+                of Arbitrators Zambia Branch. James is the Past-President of the
+                Law Association of Zambia (LAZ) and Past-President of the SADC
+                Lawyers Association. He is also a former Council member of the
+                International Bar Association. He holds a Master of Laws degree
+                (Construction and Dispute Resolution) and a Bachelor of Laws
+                degree. He is an advocate of all the Superior Courts in Zambia.
+                He is a Fellow of the Chartered Institute of Arbitrators
+                (FCIARB). James also serves as a Commissioner of the Small
+                Claims Court in Zambia and is member of the Disputes Resolution
+                Board Foundation (DRBF), The Society of Construction Law (SCL),
+                and the Federation of Consulting Engineers (FIDIC)
+              </p>
+              <p>
+                James has held several appointments as arbitrator, mediator and
+                legal expert on various large scale domestic and international
+                commercial disputes. His practice involves advising and
+                representing parties in domestic and international arbitrations,
+                adjudications and court proceedings. His clients include
+                international and local employers, contractors and consultants
+                on engineering, construction, energy, mining and information
+                technology projects.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-34"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mr. Isaac Bizumuremyi
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a13.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mr. Isaac Bizumuremyi</h2>
+                  <div class="meta">Managing Partner-Lex Chambers</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Isaac Bizumuremyi is a Rwandan lawyer practicing at Lex
+                Chambers, one of the leading law firms in Rwanda. As the
+                Managing Partner at the Firm, Isaac has been in legal practice
+                for the last 14 years in areas of corporate law, commercial
+                transactions, commercial Litigation, commercial arbitration,
+                employment law, Intellectual Property Rights of trademarks,
+                Corporate Insolvency and business turnaround.
+              </p>
+              <p>
+                Isaac holds LL.M In International Trade and Commercial Law from
+                the University of Essex, England, Master of Arts in Human Rights
+                law from the University of London, a Postgraduate Certificate in
+                International Business Law from the University of Cumbria,
+                England, and an LL.B from the University of Rwanda.
+              </p>
+              <p>
+                Isaac is an experienced arbitrator and member of Chartered
+                Institute of Arbitrators [Ciarb-London] since 2012. He is on the
+                panel of Arbitrators at Kigali International Arbitration Centre
+                [KIAC]. He is a member of the African Arbitration Association.
+              </p>
+              <p>
+                Isaac is also a member of International Association of
+                Insolvency practitioners (INSOL International)-London, and in
+                Rwanda he is a licensed insolvency practitioner by the office of
+                Chief Insolvency Administrator. He is a member of Rwanda Bar
+                Association, and a member of east African Law Society.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-30"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Dr. Didas Kayihura Muganga
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a13.png"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Dr. Didas Kayihura Muganga</h2>
+                  <div class="meta">
+                    Acting Chancellor / University of Rwanda
+                  </div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Currently, Didas is the Vice Chancellor of the University of
+                Rwanda, and prior to that, he was the Rector - Institute for
+                Legal Practice and Development 2017- July 2022. He is a
+                Commissioner for East Africa Competition Authority (EACA since
+                2016), member of the East African Law society; member of the
+                Rwandan Bar Association and was the Vice Chair of its
+                independent Disciplinary Commission. Didas is a Fellow -
+                Chartered Institute of Arbitrators – London, and is an
+                Accredited member - CEDR Commercial mediations; Member - East
+                African Judicial Education Council (EAJEC); member - Kigali
+                International Arbitration Center’s Domestic Panel. Didas holds a
+                PhD (Utrecht University) in Business Law - Corporate Law and
+                Corporate Governance and an LL.M in International Business Law
+                from the same University. Didas prides with an extensive
+                experience in Academia and academic management, Practice and
+                management of Law and Arbitration. A passionate practitioner of
+                ADR with specific interests in Arbitration and Mediation.
+                Contacts: dkayihura@fountainadvocates.com or
+                didaskayihura@gmail.com, +250 788 495 778 / +250 788 307 375.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-43"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mr. Eugenio Bettella
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a14.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mr. Eugenio Bettella</h2>
+                  <div class="meta">Partner-BERGS&MORE</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Founding partner of Bergs & More, Eugenio is an Italian
+                qualified lawyer with a strong litigation and arbitration
+                background at national and international level, in the fields of
+                civil, corporate, commercial and trade law, credit protection as
+                well as public and private tenders.
+              </p>
+              <p>
+                He assists companies in national and international mediation and
+                arbitration proceedings, specifically in front of IDRC, National
+                and International Arbitration Chamber of Milan, ICCI, LCIA,
+                CIETAC, DIAC. He is in the list of arbitrators in the
+                Tunisian-Italian Chamber of Arbitration in Tunis, the
+                Italian-German Chamber of Commerce, Russian Arbitration Center
+                at the Russian Institute of Modern Arbitration.
+              </p>
+              <p>
+                On corporate field, he has accrued a large experience at
+                national and international level in M&A transactions, commercial
+                contracts, FDI and international joint venture, practicing in
+                both common law and civil law jurisdictions mainly in East &
+                West African countries, in Middle East, U.S., Europe and Russia.
+              </p>
+              <p>
+                Eugenio is speaker in several conferences and masters on
+                subjects related to national and international litigation and
+                arbitration, FDI, infrastructure and energy sector. (On 2022:
+                KEPSA Kenya “A Partnership to let Africa grow”; ICE, SACE
+                Assafrica “International Contract in Africa”, AfricaeAffari,
+                MAECI, Assafrica, Assolombarda “Africa and Gulf Business
+                Opportunities”; Cattolica University Master “Main legal systems,
+                contract law and litigation”; University of Padua “Joint
+                Ventures and international contracts”).
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-32"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mr. Emmanuel Butare
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a15.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mr. Emmanuel Butare</h2>
+                  <div class="meta">Partner MRB Attorneys</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Emmanuel Butare is a Partner and one of the Founders of MRB
+                Attorneys. He holds an LLB (Hons) of the National University of
+                Rwanda, LLM, Ottawa University, a Postgraduate Diploma in legal
+                Practice- ILPD, a certified Fellow with the London Chartered
+                Institute of Arbitrators- FCIArb, as well as a Certificate in
+                Global Arbitration from Hamline School of Law and Queen Mary
+                University plus a certificate in International Investment Treaty
+                and Arbitration by Africa International Legal Awareness. He
+                worked as an assistant lecturer at the Law School, a Training
+                coordinator in the Rwandan Judiciary, and Principal State
+                Attorney. He was part of the team that negotiated the launch of
+                the Tripartite Free Trade Area negotiations between the EAC,
+                COMESA and SADC.  He is a member of the Rwanda Bar Association,
+                Member of KIAC Panel of Arbitrators, and has handled several
+                arbitrations. He is also a court accredited mediator having
+                mediated cases from different courts including the Supreme
+                Court.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-28"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mr. Athanase Rutabingwa
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a14.png"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mr. Athanase Rutabingwa</h2>
+                  <div class="meta">
+                    MP-MRB Attorneys & Chairman of CIArb/Rwanda Branch
+                  </div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Athanase is a licensed legal practitioner in the Republic of
+                Rwanda. He has 22 years` experience in legal advisory roles. His
+                core legal practice areas include corporate/commercial law,
+                alternative dispute resolution mechanisms, litigation in
+                commercial and financial services, energy, mining and labour
+                matters.
+              </p>
+              <p>
+                He has handled both domestic and international arbitration
+                matters, as either as Counsel or an Arbitrator to the dispute.
+                He is a Fellow (FCIArb) in arbitration, and is the current
+                Chairman of the Chartered Institute of Arbitrators (CIArb
+                Rwanda), and also the Managing Partner – MRB Attorneys.
+              </p>
+              <p>
+                He holds a Master`s Degree in International Trade Policy and
+                Trade Law (Lund University – Sweden) and a Bachelor`s Degree in
+                Law (UNR). He is a seasoned insolvency administrator. He has
+                served on a number of Board of Directors for both private and
+                public entities in Rwanda. He is the past President of the
+                Rwanda Bar Association and also the past Chairman of the Kigali
+                City Council.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-33"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mr. Anish Wadia
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a16.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mr. Anish Wadia</h2>
+                  <div class="meta">International Arbitrator</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Mr. Anish WADIA, C.Arb, CIP(FAIADR), PAP-KFCRI, SFBiam, FACICA,
+                FMIArb, FHKIArb, FSIArb, FPIArb, FAArb, FPD, FAMINZ(Arb/Med),
+                FMP-KFCRI, CFCILS is a highly experienced and internationally
+                accredited full-time independent Chartered Arbitrator,
+                Accredited Mediator and Adjudicator; with experience in common
+                law and civil law systems, laws of China and Hong Kong, other
+                hybrid legal systems across the African continent, and an
+                understanding of Islamic laws. He is also an Accredited Sports
+                Arbitrator (AIAC / Olympic Council of Malaysia), and a lawyer in
+                India (Advocate), England & Wales (Solicitor Advocate), and
+                Kazakhstan (AIFC Court).
+              </p>
+              <p>
+                He is the first ever Indian qualified lawyer and the youngest
+                ever individual in the world to be accredited as a Chartered
+                Arbitrator in CIArb’s over 100-year history. Has held and
+                currently holds several other senior leadership roles on the
+                Boards / Governing Council of several ADR organisations across
+                the globe including in India, Germany, Malaysia, Singapore,
+                Switzerland, U.K. and U.S.A. This includes sitting on CIArb's
+                global Examination Board, Practice & Standards Committee and
+                Professional Development Advisory Group - he is also one of a
+                few people in the world who is fully approved by CIArb as a
+                Regional Pathway Leader (RPL) and as an AFL Course Director,
+                Assessor and Tutor across all CIArb courses and assessment
+                programmes.
+              </p>
+              <p>
+                He is a recipient of numerous accolades in the field of
+                International ADR including ranked by Who’s Who Legal since 2021
+                as "one of the most sought-after arbitrators". Admitted on the
+                ADR Panel/Roster/List/Database of over 70 (seventy) Institutions
+                across the globe spanning every continent including CIArb's
+                Presidential Panel. He is regularly invited as a Speaker,
+                Trainer and Lecturer on topics related to International ADR
+                across the globe including for members of the Judiciary
+                (including current Supreme Court Justices in The Bahamas,
+                Cameroon and Pakistan). You can view his detailed profile at:
+                www.anishwadia.com
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-12"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mr. Christopher Adebayo Ojo
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a17.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mr. Christopher Adebayo Ojo</h2>
+                  <div class="meta">SAN, International Arbitrator</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Chief Bayo Ojo, a Senior Advocate of Nigeria was called to the
+                Nigerian Bar in 1978 after graduating from the University of
+                Lagos, Nigeria in 1977. He obtained LL.M from the London School
+                of Economics, University of London in 1982 and later got
+                admitted as a Solicitor of the Supreme Court of England and
+                Wales.
+              </p>
+              <p>
+                Since then he has been in active Commercial law, International
+                Law, Litigation, Mediation, Arbitration and Alternative Dispute
+                Resolution practice. He has acted as sole Arbitrator, member of
+                arbitration panels, and as Counsel in numerous domestic and
+                international arbitrations both at the International Chamber of
+                Commerce Paris (ICC), International Centre for Settlement of
+                Investment Disputes Washington DC (ICSID), the American
+                Arbitration Association (AAA) and the London Court of
+                International Arbitration (LCIA) over the last thirty five years
+                involving complex oil and gas, investments, infrastructure,
+                concessions, public private partnerships, power, mining and
+                commercial ventures. He has also acted as expert witness in
+                international arbitrations including ICSID. He has mediated on
+                several disputes as well.
+              </p>
+              <p>
+                He is a former Attorney General and Minister of Justice of the
+                Federal Republic of Nigeria, past President of the Nigerian Bar
+                Association (NBA), past Chairman of the Nigerian Legal Aid
+                Council and the Chartered Institute of Arbitrators, Nigeria
+                Branch. Ojo was until recently a member of the United Nations
+                International Law Commission (ILC) Geneva Switzerland, Council
+                member of the Section on Energy and Natural Resources Law of the
+                International Bar Association, a member of the ICSID Panel of
+                Arbitrators, Washington, DC, a member of the Panel of the
+                Permanent Court of Arbitration, Hague, Netherlands, Alternate
+                Chairman of UNESCO Appeals Board in Paris, a member of the Board
+                of Trustees of the Chartered Institute of Arbitrators London,
+                President of the African Users’ Council of the London Court of
+                International Arbitration (LCIA). He is currently the President
+                of the African Arbitration Association, expert member of the
+                Chinese International Commercial Court (CICC) and the Board of
+                the Cairo Regional Centre for International Commercial
+                Arbitration (CRCICA).
+              </p>
+              <p>
+                He is a Chartered Arbitrator, a Fellow of the Institute of
+                Chartered Mediators and Conciliators (ICMC) and the Institute of
+                Construction Industry Arbitrators (ICIARB). He is also a Fellow
+                of the Nigerian Institute of Advanced Legal Studies and a patron
+                of the Nigerian Society of International Law and the
+                International Law Association, Nigerian Branch.
+              </p>
+              <p>
+                He is the Editor-in-Chief of the Nigerian Journal of Arbitration
+                and Mediation (NJAM) and African Journal of Arbitration and
+                Mediation (AJAM). He is the co-author of The Handbook of
+                Arbitration and ADR Practice in Nigeria and a recipient of the
+                National Honour of Commander of the Order of the Niger (CON) for
+                meritorious service to the nation. He has over the years spoken
+                at many workshops, seminars and delivered numerous public
+                lectures both within and outside Nigeria.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-38"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Dr. Fidele Masengo
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a15.png"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Dr. Fidele Masengo</h2>
+                  <div class="meta">former KIAC SG</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Dr. Fidele Masengo has a PhD in Law from the University of
+                Antwerp (Belgium 2010), a Master in Economic law (DESS) from the
+                University of Louvain (Belgium 2003). 
+              </p>
+              <p>
+                He works as a Legal Consultant, an Arbitrator (Fellow of the
+                Chartered Institute of Arbitrators of UK- FCIArb) and a
+                Certified Mediator. Former Secretary General of the Kigali
+                International Arbitration Center (July 2015-January 20221) 
+              </p>
+              <p>
+                His background in both arbitration and law in general, includes,
+                serving as Arbitrator, Mediator, lecturer of law (Business,
+                Arbitration, Land law) at various universities in Rwanda and
+                East Africa. Member of the Rwanda Bar Association (Advocate)
+                since 2006. He has served to the First Board of Director of
+                Kigali International Arbitration Center since its establishment
+                in January 2012 up to September 2017. He serves on the Board of
+                Directors of The African Arbitration Association; He seats on
+                the Governing Council of the JANADA International Arbitration
+                Centre- Nigeria. Fidele has also served as Deputy Chief of Party
+                for a USAID-Chemonics Rwanda Land Project (2011-2015), as Legal
+                Counsel of Rwanda Utilities Regulation Agency (2004-2005) and as
+                Director of Administration of the Justice at Ministry of Justice
+                (1999-2004). He has written articles, books. He has attended
+                many Conferences as speaker.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-19"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Ms. Elodie Dulac
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a18.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Ms. Elodie Dulac</h2>
+                  <div class="meta">Partner, King & Spalding</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Elodie Dulac is a partner in King & Spalding international
+                arbitration group in Singapore, where she has been based for
+                over 15 years. She specialises in international commercial
+                arbitration, investment treaty arbitration and public
+                international law. Elodie has particular expertise in energy,
+                mining, joint venture/shareholder disputes as well as disputes
+                involving States and State-owned entities. In addition to her
+                work as counsel, Elodie has been appointed as arbitrator in more
+                than 20 arbitrations, including under the auspices of the ICC,
+                HKIAC, SIAC, AIAC, KIAC and ad hoc.  
+              </p>
+              <p>
+                Elodie has been consistently recognised as a leading individual
+                for international arbitration in all major legal directories.
+                She has been described as “a class act, with a world of
+                experience and good instincts”, an “‘outstanding practitioner’
+                who is recognised for her broad knowledge of investment law” and
+                a “‘highly intellectual lawyer with deep expertise regarding
+                energy disputes’ who possesses a ‘profound understanding of
+                investment arbitration’”.
+              </p>
+              <p>
+                Elodie is a co-founder of the East Africa International
+                Arbitration Conference and has been a visiting lecturer on
+                international arbitration at several universities in Ethiopia.
+              </p>
+              <p>
+                A French national, Elodie is admitted to practice in England &
+                Wales (Solicitor-Advocate) and Paris, France. She is a
+                Registered Foreign Lawyer at the Singapore International
+                Commercial Court.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-17"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Dr. Jimmy Koddo
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a19.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Dr. Jimmy Koddo</h2>
+                  <div class="meta">International Arbitrator</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Dr. Mahutodji Jimmy Vital KODO, Attorney at law (France), Member
+                of the Permanent Court of Arbitration (The Netherlands); the
+                Africa Commission of the International Court of Arbitration of
+                the International Chamber of Commerce (France); the Singapore
+                International Arbitration Court Users Council. Former Technical
+                Advisor to the President of the Common Court of Justice and
+                Arbitration of the Organisation for the Harmonisation of
+                Business Law in Africa, Dr. Kodo published the book Arbitration
+                in Africa under OHADA Rules (Kluwer, 2020).  
+              </p>
+              <p>
+                A Fellow of the Chartered Institute of Arbitrators (United
+                Kingdom), Dr. Kodo is a certified arbitrator of the CCJA and is
+                listed on the Arbitrator Roster of many institutions (inter
+                alia, LCA - Nigeria; MIAC – Mauritius; SHAC - China; IAI –
+                France).
+              </p>
+              <p>
+                As an independent practitioner, Dr. Kodo has acted as
+                co-arbitrator in Investor-State disputes and as sole arbitrator
+                and counsel in commercial and construction disputes.
+              </p>
+              <p>
+                In 2021, as a Consultant for the Investment Climate Reform
+                Facility and implemented by GIZ (Germany) and three other
+                institutions, Dr. Kodo revised the Arbitration Rules of the
+                National Centre for Arbitration, Conciliation and Mediation of
+                Kinshasa, Democratic Republic of Congo; and trained more than
+                eighty arbitrators of the centre.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-39"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mrs. Adedoyin Rhodes-Vivour
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a20.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mrs. Adedoyin Rhodes-Vivour</h2>
+                  <div class="meta">Managing Partner-DRV</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Adedoyin Rhodes-Vivour, lawyer and arbitrator (British Chevening
+                Scholar) is a Chartered Arbitrator and Fellow of the Chartered
+                Institute of Arbitrators (CIArb) with over 40 years’ experience
+                in legal practice. She is a Notary Public of Nigeria called to
+                the Nigerian Bar in 1981. She is a Senior Advocate of Nigeria.
+                Over the past 40 years she has acquired very significant
+                experience in arbitration. She is recognised in various
+                publications including Expert Guides, Who is Who Legal and Women
+                in Business Law as having very significant experience in
+                International and domestic arbitration. She is a member of the
+                ICC Paris International Court of Arbitration and member of the
+                World Bank Group Sanctions Board - the final decision maker in
+                all contested cases of sanction-able misconduct occurring in
+                development projects financed by the World Bank Group. She has
+                arbitrated disputes involving matters in various areas including
+                Energy and Natural resources, Construction and Infrastructural
+                projects, Banking and Finance, Maritime, Labour and
+                Telecommunications. She has written several articles on
+                Arbitration/ADR and regularly delivers papers at international
+                and domestic conferences and training events. She is an approved
+                tutor of the CIArb. She is the author of the book titled:
+                ‘Commercial Arbitration Law and Practice in Nigeria through the
+                Cases’ Published by LexisNexis.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-46"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mrs. Obosa Akpata
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a21.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mrs. Obosa Akpata</h2>
+                  <div class="meta">PATRELI PARTNERS</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Obosa Akpata is a versatile legal practitioner with over 30
+                years of post-call-to-bar experience. She is Principal Partner
+                of Patreli Partners, a Nigerian Law firm versed in commercial
+                law practice. Obosa is a Chartered Arbitrator of the Chartered
+                Institute of Arbitrators (UK). She is an Approved Tutor and
+                Assessor of this worldwide Institute and serves on the Executive
+                Committee of the Nigeria Branch (first Co-ordinator of the Young
+                Members Group, past Secretary, and currently 3rd Vice-Chairman).
+                She is an Accredited Mediator of the Centre for Effective
+                Dispute Resolution (CEDR), a Fellow of the Institute of
+                Construction Industry Arbitrators (FICIArb), and an Associate of
+                the Chartered Institute of Taxation of Nigeria (ACITN). She is
+                also a member of the African Arbitration Association (AfAA) and
+                the ICC Nigeria Commission on Arbitration and ADR.
+              </p>
+              <p>
+                She is an active member of the Nigerian Bar Association (NBA)
+                Lagos Branch having served on different committees including
+                Chair of the Arbitration and ADR Committee of the Section on
+                Business Law (SBL) from 2018 to 2020.
+              </p>
+              <p>
+                Obosa sits as Arbitrator and has acted as sole, party appointed,
+                and chair of arbitral panels in both institutional and ad hoc
+                arbitrations. She is also an experienced Mediator. Obosa has
+                some articles to her credit and is co-author of the 2nd edition
+                of “The Nigerian Arbitration Law in Focus”.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-47"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+            <h4 id="speaker-1-ModalLabel" class="modal-title sr-only">
+              Mrs. Aurélia Kamga Mafongo
+            </h4>
+          </div>
+          <div class="modal-body p-0">
+            <div class="theme-bg-light p-5">
+              <div class="row">
+                <div class="col-12 col-md-auto text-center">
+                  <img
+                    class="
+                      profile-image
+                      mb-3 mb-md-0
+                      me-md-4
+                      rounded-circle
+                      mx-auto
+                    "
+                    src="assets/images/speakers/a22.jpg"
+                    alt=""
+                  />
+                </div>
+
+                <div class="col text-center text-md-start mx-auto">
+                  <h2 class="name mb-2">Mrs. Aurélia Kamga Mafongo</h2>
+                  <div class="meta">Chazai Wamba Law Firm</div>
+                </div>
+                <!--//col-->
+              </div>
+              <!--//row-->
+            </div>
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Aurélia Sylvia MAFONGO KAMGA is a senior associate at Chazai
+                Wamba law Firm, a business law firm based in Cameroon.
+              </p>
+              <p>
+                She is a barrister and solicitor to the Nigerian and Cameroon
+                Bars.
+              </p>
+              <p>
+                Her practice is on general corporate matters, project financing,
+                commercial transactions and Alternative Dispute Resolution with
+                a focus on arbitration.
+              </p>
+              <p>
+                She is a former International Chamber of Commerce Young
+                Arbitrator Forum (ICC-YAF) Representative for Africa, Middle
+                East and Turkey. She organises, attends and presents papers at
+                several conferences around the world, to promote ADR mechanisms
+                among young practitioners. She is an active member of the
+                Association for the Promotion of Arbitration in Africa (APAA), a
+                member of the Association of Young Arbitrators (AYA), Young
+                International Council of Commercial Arbitration (ICCA), among
+                the Arbitral Women, ERA pledge signatory and an Associate of the
+                United Kingdom Chartered Institute of Arbitrators (CIArb).
+              </p>
+              <p>
+                Prior to working at a law firm, she was at the Common Court of
+                Justice and Arbitration (CCJA-OHADA) where she gained experience
+                in arbitration.
+              </p>
+              <p>
+                She is a holder of a Masters in international disputes from the
+                International Relations Institute of Cameroon.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-s1"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body p-0">
+            <div class="desc p-4 p-lg-5">
+              <p>
+                The Private Sector Federation –Rwanda (PSF) is a professional
+                organization, dedicated to promote and represent the interests
+                of the Rwandan business community. It is an umbrella
+                organization that groups 10 professional chambers. It was
+                established in December 1999, replacing the former Rwanda
+                Chamber of Commerce and Industry.
+              </p>
+              <p>
+                The Private Sector Federation (PSF) has registered major
+                successes since its creation in 1999. Beyond a strong brand and
+                membership base, PSF pioneered Business Development Services
+                (BDS), registered wins in advocacy and played a strong national,
+                regional and International role.
+              </p>
+              <p>Call: +(250) 788 123 300</p>
+              <p>Email: secretariat@psf.org.rw</p>
+              <p>PO Box: 319 Kigali Rwanda</p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-s2"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body p-0">
+            <div class="desc p-4 p-lg-5">
+              <p>
+                MRB Attorneys is a General Service Law Firm with a strong focus
+                on Corporate & Commercial Law, Banking and Investment
+                transactional advisory work. MRB also provides services in the
+                areas of Dispute Resolution, policy development as well as legal
+                audits, due diligences, legal and legislative drafting. The firm
+                through its partners and associates has advised and continue to
+                advise key corporate clients in Rwanda that include banks,
+                private and public companies, international organizations and
+                government agencies.
+              </p>
+              <p>
+                MRB is part of an expanding network throughout Africa. Through
+                this network, the firm has formed a number of alliances with
+                other law firms’ practicing in Africa and other jurisdictions
+                with a subsequent view of establishing a single African Law firm
+                with global links all over the world.
+              </p>
+              <p>
+                At MRB Attorneys we excel in the area of Alternative Dispute
+                Resolution. Our lawyers are members of reputable dispute
+                resolutions centers such as the Kigali International Arbitration
+                Centre (KIAC) and the London Institute of Chartered Arbitrators
+                (CIArb) and as such, have vast experience in International
+                Arbitration proceedings either as Counsel or Arbitrators.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-s3"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body p-0">
+            <div class="desc p-4 p-lg-5">
+              <p>
+                GENI & KEBE is a full-service commercial law firm providing
+                legal services in sub-Saharan Africa. Founded in 1912, GENI &
+                KEBE is the oldest law firm in Senegal. Over 100 years on, GENI
+                & KEBE now works in collaboration with Affiliate Offices in 13
+                countries to provide a full spectrum of legal services across
+                the region.
+              </p>
+              <p>
+                Chambers Global interviewees attest that GENI & KEBE provides
+                “high-quality advice and an ability to handle pan-African
+                corporate transactions” and acknowledge GENI & KEBE as “one of
+                Senegal’s premier firms thanks to its international approach and
+                high standard of work.”
+              </p>
+              <p>
+                With a strong history and regional presence, GENI & KEBE
+                effectively serves the needs of clients in a globalised world.
+                Lawyers have lived and worked internationally, so they
+                appreciate the foreign perspective; however, the firm is
+                homegrown, and advisers know the local business and government
+                environments intimately.
+              </p>
+              <p>
+                GENI & KEBE is a member of DLA Piper Africa, an alliance of
+                independent law firms working together in association with DLA
+                Piper.
+              </p>
+            </div>
+          </div>
+          <!--//modal-body-->
+        </div>
+        <!--//modal-content-->
+      </div>
+      <!--//modal-dialog-->
+    </div>
+
+    <div
+      class="modal modal-speaker modal-speaker-1"
+      id="modal-speaker-s4"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="speaker-1-ModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body p-0">
+            <div class="desc p-4 p-lg-5">
+              <p>
+                Jus Mundi is a Paris and New York-based legal tech providing
+                smart search tools for commercial & investment arbitration
+                research. We offer the broadest & exclusive collection of
+                commercial arbitration awards from a range of sources, including
+                data from key partnerships with the world’s leading
+                institutions, such as ICC, ICDR & IBA. By combining law &
+                technology, we enhance lawyers’ decision-making by giving them
+                access to critical legal information to win cases. Jus Connect
+                by Jus Mundi is a professional network of 40,000 members
+                providing detailed analytics on arbitration professionals to
+                boost transparency & diversity across the field. To learn more,
+                please visit jusmundi.com.
               </p>
             </div>
           </div>

@@ -42,7 +42,11 @@
             <img src="assets/images/logos/9.jpg" alt="" />
           </div>
           <div class="logo-item col-6 col-md-4 col-lg-3">
-            <img style="width: 200px; height: 200px" src="assets/images/logos/15.png" alt="" />
+            <img
+              style="width: 200px; height: 200px"
+              src="assets/images/logos/15.png"
+              alt=""
+            />
           </div>
           <div class="logo-item col-6 col-md-4 col-lg-3">
             <img src="assets/images/logos/6.png" alt="" />
@@ -50,16 +54,22 @@
           <div class="logo-item col-6 col-md-4 col-lg-3">
             <img src="assets/images/logos/7.jpg" alt="" />
           </div>
-          
+
           <div class="logo-item col-6 col-md-4 col-lg-3">
             <img src="assets/images/logos/5.jpg" alt="" />
           </div>
-          
+
           <div class="logo-item col-6 col-md-4 col-lg-3">
             <img src="assets/images/logos/8.png" alt="" />
           </div>
           <div class="logo-item col-6 col-md-4 col-lg-3">
-            <img src="assets/images/logos/4.jpg" alt="" />
+            <a
+              href="#modal-speaker-s1"
+              data-bs-toggle="modal"
+              :data-bs-target="dataTarget"
+            >
+              <img src="assets/images/logos/4.jpg" alt="" />
+            </a>
           </div>
           <div class="logo-item col-6 col-md-4 col-lg-3">
             <img src="assets/images/logos/10.jpg" alt="" />
@@ -76,7 +86,34 @@
           <div class="logo-item col-6 col-md-4 col-lg-3">
             <img src="assets/images/logos/14.jpg" alt="" />
           </div>
-          
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <a
+              href="#modal-speaker-s2"
+              data-bs-toggle="modal"
+              :data-bs-target="dataTarget"
+            >
+              <img src="assets/images/logos/a1.png" alt="" />
+            </a>
+          </div>
+
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <a
+              href="#modal-speaker-s3"
+              data-bs-toggle="modal"
+              :data-bs-target="dataTarget"
+            >
+              <img src="assets/images/logos/17.jpg" alt="" />
+            </a>
+          </div>
+          <div class="logo-item col-6 col-md-4 col-lg-3">
+            <a
+              href="#modal-speaker-s4"
+              data-bs-toggle="modal"
+              :data-bs-target="dataTarget"
+            >
+              <img src="assets/images/logos/a2.png" alt="" />
+            </a>
+          </div>
         </div>
         <!--//row-->
         <div class="sponsors-cta text-center pt-5">
