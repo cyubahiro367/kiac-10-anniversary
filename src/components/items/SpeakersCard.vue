@@ -1090,9 +1090,9 @@
             </div>
             <div class="desc p-4 p-lg-5">
               <p>
-                Aïssatou is Legal Counsel at the International Centre for
-                Settlement of Investment Disputes (ICSID), which she joined in
-                2008.
+                Randi Ayman is a Senior Research Fellow in the Department of
+                International Law and Dispute Resolution of Max Planck Institute
+                in Luxembourg.
               </p>
               <p>
                 Before joining the Institute, Randi was Legal Counsel for nearly
@@ -1101,15 +1101,7 @@
                 Randi worked at the international arbitration practice of the
                 law firms Shearman & Sterling LLP and Eversheds LLP, both in
                 Paris, at Le Défenseur des droits in Paris, and at the United
-                Nations World Tourism Organization in Madrid.  
-              </p>
-              <p>
-                Ms. Diop holds a B.A. in History and Political Science from
-                Jamestown University, an M.A. in African Studies and Political
-                Science from Yale University, and a J.D. with a concentration on
-                international law from Northwestern University.  She is admitted
-                to practice (inactive) in the State of Illinois and the District
-                of Columbia.
+                Nations World Tourism Organization in Madrid.
               </p>
               <p>
                 Randi specializes in investor-State dispute settlement, public
